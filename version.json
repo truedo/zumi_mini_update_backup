@@ -7,5 +7,8 @@
     "hw_version": "2.26",
     "hw_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/HW/HW_recovery.hex",
     "hw_size": "71,077",
-    "hw_sha256": "7258185c2edfa087c837b6cf9a50e9c4e3e111e6298518b23bde72166909753e"
+    "hw_sha256": "7258185c2edfa087c837b6cf9a50e9c4e3e111e6298518b23bde72166909753e",
+
+    "sd_version": "1.05",
+    "sd_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/SD/"
 }
