@@ -1,0 +1,1940 @@
+{
+    "base_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/SD",
+    "files": [
+        {
+            "path": "codes.bin",
+            "size": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "faceEx.bin",
+            "size": 115204,
+            "sha256": "979a953a382f9e39d80553960a38819c97014e3f3682cd29ac00ba99df77f47b"
+        },
+        {
+            "path": "firmware.bin",
+            "size": 2717504,
+            "sha256": "6fc0e6d934223df5591a87b4896d8369ebb152561013b488b4a2920a580eaa6d"
+        },
+        {
+            "path": "FLAG.TXT",
+            "size": 2,
+            "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+        },
+        {
+            "path": "list.txt",
+            "size": 147016,
+            "sha256": "3ff05c08fc1b23897876995e96ff96ab3089b850bb603e98de720671398a7802"
+        },
+        {
+            "path": "logo_ai_b.bin",
+            "size": 50564,
+            "sha256": "82f62bbe003c95c4a445a69561f5962973308d08033c2e3fabf2a23ec4746d91"
+        },
+        {
+            "path": "open.wav",
+            "size": 575180,
+            "sha256": "c3ce683c19f6ecada5ab486fb94acea87de232af861b33f39e2ca7849da1f4f0"
+        },
+        {
+            "path": "set.txt",
+            "size": 1527,
+            "sha256": "097df61afe6fdeb4fee111d238948914c5ef5d1d859e7fcfa969d0913b00e0a3"
+        },
+        {
+            "path": "slide.wav",
+            "size": 16706,
+            "sha256": "dee549198c83dd329c15f80a27d8bba0a4cacdc9696b89f3f212d884f3d91800"
+        },
+        {
+            "path": "stat.txt",
+            "size": 1511,
+            "sha256": "40d8c31df81b0d398ecb7593b3313442f031325ab0e22fbb3e65f93cefd15d85"
+        },
+        {
+            "path": "ttalkak.wav",
+            "size": 53292,
+            "sha256": "6871a479c676a67e6e1187edaeebda22156f99d7519b3cb7b34ebb54d39f4bd8"
+        },
+        {
+            "path": "version.txt",
+            "size": 4,
+            "sha256": "1fedb9c592f8dc6e7c5316ba43da17271a42fa78ad4ddb63bd8dda326464f948"
+        },
+        {
+            "path": "wifi.txt",
+            "size": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "work_In.bin",
+            "size": 49156,
+            "sha256": "192da21c598e1ba5b74ef1654766043405661851030d24195cdccef468ad970a"
+        },
+        {
+            "path": "zumi_lg.bin",
+            "size": 45850,
+            "sha256": "70fdba26286c8aa1e6f80cd17bffdcc50977cf6deee92eceb516df6b8ebcc804"
+        },
+        {
+            "path": "zumi_t.bin",
+            "size": 59764,
+            "sha256": "af6a9b79536049f55f77c653d66696731c9bf8de415f6b1c072836bb3801f482"
+        },
+        {
+            "path": "AI/ai_01.bin",
+            "size": 169393,
+            "sha256": "9d5422acdadf17be5bedbf6fba9c76865fcaaf31afa06a972dd20d614688dab5"
+        },
+        {
+            "path": "AI/ai_02.bin",
+            "size": 169393,
+            "sha256": "3249ae3aea78f76862804d1968a3d09b8b97971d94a2c702c595ea8dd4c17b19"
+        },
+        {
+            "path": "AI/ai_03.bin",
+            "size": 169393,
+            "sha256": "4a68be054a7b9980c22e6990b51306c2e02fa9f93628e9711c1c7175959854f0"
+        },
+        {
+            "path": "AI/ai_04.bin",
+            "size": 169393,
+            "sha256": "708e6e5305fa4b98cb2402f8de407e41208be17ca5ba7fa296850c2ee8fa0557"
+        },
+        {
+            "path": "AI/ai_09.bin",
+            "size": 172804,
+            "sha256": "ad4bf789cc9f92d97fcf4d518b2888f1e3a4c5591e665e58e6ab9ba2dff87421"
+        },
+        {
+            "path": "AI/ai_10.bin",
+            "size": 172804,
+            "sha256": "16e1eb027c725336d8c7e08d84cdeab49c6b25659c7e3f80680dcda5cf7046a2"
+        },
+        {
+            "path": "AI/ai_11.bin",
+            "size": 172804,
+            "sha256": "1e618da34bde14745f4da80160ebe5236f2c0be4a5c3abc95937548498f2175b"
+        },
+        {
+            "path": "AI/ai_12.bin",
+            "size": 172804,
+            "sha256": "dd3c27fcd5f4dbf838a54da01e3df7c5f52c97440ec22bb95d12a113642b25d3"
+        },
+        {
+            "path": "AI/ai_13.bin",
+            "size": 172804,
+            "sha256": "19e92bb18e584a2803daaa0d60a17b031c094732f2f14b5de21adb9316beb90c"
+        },
+        {
+            "path": "AI/ai_14.bin",
+            "size": 172804,
+            "sha256": "ba86165b4ca02c3745a75eaacdc28a2d388b58c105c7528f3edbccf0282732d3"
+        },
+        {
+            "path": "AI/ai_15.bin",
+            "size": 172804,
+            "sha256": "d0a2ce2e17764367528316c0238e7cf37e2f401b63f1cc474213aa7697999494"
+        },
+        {
+            "path": "AI/ai_16.bin",
+            "size": 172804,
+            "sha256": "f117d9171c908a9defa2c2a2f18c041b086797603773fe6649a00e89cb4df6ca"
+        },
+        {
+            "path": "AI/ai_17.bin",
+            "size": 172804,
+            "sha256": "03ce7cea886837c7c13600ddc15881a9717cf1700886f0dcf72d923386c6a6ff"
+        },
+        {
+            "path": "AI/ai_18.bin",
+            "size": 172804,
+            "sha256": "179a23099353b1fabf18524a05add1a2c3f39eb0574e0b76ce366cb5570f6679"
+        },
+        {
+            "path": "AI/ai_20.bin",
+            "size": 169393,
+            "sha256": "22243dbd90d2a5c95fbb146c0bb272863d2dc1ef3b2d29c42e3aecf00acf78a3"
+        },
+        {
+            "path": "AI/ai_21.bin",
+            "size": 169393,
+            "sha256": "c682a1176228101cd641f8fc8ac6998afe0a6a184cc138dc426229c50a546397"
+        },
+        {
+            "path": "AI/ai_22.bin",
+            "size": 169393,
+            "sha256": "84c01a9a33efd13fec9fa5fa3c81870d39259662e5c7b60c77400f2e482a5ceb"
+        },
+        {
+            "path": "AI/color_00.bin",
+            "size": 165124,
+            "sha256": "84db7b2741e3e1993de1428d4ffbf2fe21653ff2e33344136915eaa3306ecad8"
+        },
+        {
+            "path": "AI/color_02.bin",
+            "size": 165124,
+            "sha256": "81181b4b35ad1179009282228859a4b06d7a0707f56cc5c49eb6da643823a105"
+        },
+        {
+            "path": "AI/color_04.bin",
+            "size": 174724,
+            "sha256": "d0710e7ad7cc6ec6962d1859d927b1ae1b45f295dac00bb031e3f64003b5eb8f"
+        },
+        {
+            "path": "AI/color_05.bin",
+            "size": 165124,
+            "sha256": "b1697f343f0f8e67ba91659f48c6dc0095e987c94b5d839a4205fee679ba055b"
+        },
+        {
+            "path": "AI/color_06.bin",
+            "size": 165124,
+            "sha256": "cd21acfc55ead5a5944b070ef6396fbbe32de3a0fcff5c12da876473073cc92e"
+        },
+        {
+            "path": "AI/talk.txt",
+            "size": 1444,
+            "sha256": "114ac5660f8c350f3f8018184feeb21bbfdde98f4d801ce4f707e45703602118"
+        },
+        {
+            "path": "AI/talk_eng.TXT",
+            "size": 1209,
+            "sha256": "fe10f13c58f77417a0424790e3f460c969762dcf26f1b3230ae4f4956abe7b12"
+        },
+        {
+            "path": "AI/talk_kr.txt",
+            "size": 1444,
+            "sha256": "114ac5660f8c350f3f8018184feeb21bbfdde98f4d801ce4f707e45703602118"
+        },
+        {
+            "path": "camera/re_0.pic",
+            "size": 115200,
+            "sha256": "90c316bb8a894c2db78a544bdadc05d82b10502483bc45c73440b3ae14fdcfb9"
+        },
+        {
+            "path": "camera/re_1.pic",
+            "size": 115200,
+            "sha256": "fb6c71d68c02ff43bf42b66ea088b4d121a4131112bdfdaa25d6321f64a0ebf1"
+        },
+        {
+            "path": "camera/re_2.pic",
+            "size": 115200,
+            "sha256": "3a49e53bbc1d4038c697b74388dfa2d3af1cd4135d0965f89951f5321220e7bb"
+        },
+        {
+            "path": "camera/re_3.pic",
+            "size": 115200,
+            "sha256": "f2a1195b74234eb106af1172cfc9a17b397936390a2ef341a887e79a325475e9"
+        },
+        {
+            "path": "camera/re_4.pic",
+            "size": 115200,
+            "sha256": "b273baff4c501a123d65013c107ccd9ad4e4f728277ccfbfac8fbc0439bae546"
+        },
+        {
+            "path": "camera/re_5.pic",
+            "size": 115200,
+            "sha256": "743fa5bcca094e5f16e3c9fabd2bcaf59862d22a27dd0bd013c2048a241f81cb"
+        },
+        {
+            "path": "camera/re_6.pic",
+            "size": 115200,
+            "sha256": "42d8efef1fc6be0e169fbc9952b1834823277cddc8aa1953d6a4f1fc073f2f3d"
+        },
+        {
+            "path": "camera/re_7.pic",
+            "size": 115200,
+            "sha256": "4669fa9691a76d800f31f12273e25cbc203e67b6d6290ec204b338b0c57c23fc"
+        },
+        {
+            "path": "camera/re_8.pic",
+            "size": 115200,
+            "sha256": "39b522a1ab5600c4cad9434c3ff40cd1082d10f6eb77b7ad5ebb739688176dbf"
+        },
+        {
+            "path": "camera/re_9.pic",
+            "size": 115200,
+            "sha256": "33c8720a49d4007b0c22d33176a8e5650f2fd1ffc3c5eaca15d1107fbde15136"
+        },
+        {
+            "path": "coding/apr.bin",
+            "size": 12292,
+            "sha256": "7ed19636568a9262d5c727ea017394faa776d094986cc323913da8c6878c6e2c"
+        },
+        {
+            "path": "coding/back.bin",
+            "size": 12292,
+            "sha256": "f3a089dca24d61c2718b4f7de3d30c32e635ee0ce294961ae0f8900db9da6e12"
+        },
+        {
+            "path": "coding/blocked.bin",
+            "size": 12292,
+            "sha256": "f0613e013b463833b703534402e7c3d241183ea953bbf0f4b7ea68e41e414e32"
+        },
+        {
+            "path": "coding/cancel.bin",
+            "size": 12292,
+            "sha256": "05869980c0978e65480c8f2464d1e09216ae610f319a5a96f2c280ae5886c01a"
+        },
+        {
+            "path": "coding/cat.bin",
+            "size": 12292,
+            "sha256": "83203b5c3261af5dea6dee3af3376697fac03784093234a9790f3d323b9280f1"
+        },
+        {
+            "path": "coding/color3.bin",
+            "size": 12292,
+            "sha256": "bbb43bbfeef9166cc6f83e0496a77c042f0074761b59b298dff7aecd882f237a"
+        },
+        {
+            "path": "coding/face.bin",
+            "size": 12292,
+            "sha256": "98c8725762bab17bcd706db7128cf1d7ca0f178055a304a9c218119da1501463"
+        },
+        {
+            "path": "coding/func1.bin",
+            "size": 12292,
+            "sha256": "de15b98c42727e36499e0a0cea8a2f655ba376b1d85120108fda01895088fddb"
+        },
+        {
+            "path": "coding/func2.bin",
+            "size": 12292,
+            "sha256": "6e85645da0f0998503739ca6b14ff12548c2472a76d052f7b13102ff1d32bf3c"
+        },
+        {
+            "path": "coding/func3.bin",
+            "size": 12292,
+            "sha256": "2086218d6523ddde7478d1f56ff93d7a9db70730905edf40926e3c130aaa04de"
+        },
+        {
+            "path": "coding/gogo.bin",
+            "size": 12292,
+            "sha256": "83dda1e674c3443d20f38a81c17896b1347972d78b6fa9b0edf54f7d34ba84cd"
+        },
+        {
+            "path": "coding/human.bin",
+            "size": 12292,
+            "sha256": "c1c22c5603b8adfd9b2bb3f696859bed314a85a7359a88c1217cdfa9a4684c6d"
+        },
+        {
+            "path": "coding/ledB.bin",
+            "size": 12292,
+            "sha256": "a2f68d50e423563a64931384a22ef8a78cb3939eb8958e3ab0f1e1eeac509975"
+        },
+        {
+            "path": "coding/ledG.bin",
+            "size": 12292,
+            "sha256": "aadbff1875ac83342a7ecafb8350d2d3d15570655028c24a3805ec09738697ef"
+        },
+        {
+            "path": "coding/ledoff.bin",
+            "size": 12292,
+            "sha256": "e28233808e9f330a75e066d5be201073c73226b1ff11571307c1660a6aa20e48"
+        },
+        {
+            "path": "coding/ledR.bin",
+            "size": 12292,
+            "sha256": "4e78cd38262960aafbe2611cc0d3abe952cb1de720ccfcf1e2e916693a6c2c4d"
+        },
+        {
+            "path": "coding/led_b.bin",
+            "size": 12292,
+            "sha256": "084b6361c60f048db38dac681b02cbb916440cf15e0b2ce9752629d49a290e05"
+        },
+        {
+            "path": "coding/led_g.bin",
+            "size": 12292,
+            "sha256": "255b87c13e4161abcb79a74475b0dc4b8be46647422172effa3985b1b41ed1f2"
+        },
+        {
+            "path": "coding/led_r.bin",
+            "size": 12292,
+            "sha256": "ef423c89824e96d6c938123f39a9f80287ce41822881478d47bf8e6936f05639"
+        },
+        {
+            "path": "coding/left.bin",
+            "size": 12292,
+            "sha256": "804ecec58fb40c7c07f91739b76276924d116b2158b6123d60ee448a2aed34f6"
+        },
+        {
+            "path": "coding/loop.bin",
+            "size": 12292,
+            "sha256": "3b5e6f9ce2ba8bab4658be787f48068d3d3ead72d6d5e15f41f4b85f909c478f"
+        },
+        {
+            "path": "coding/L_turn.bin",
+            "size": 57550,
+            "sha256": "551a84a53b7faa479887c9ce93489cd82f07296f4ff6f07d786745ef91c96a46"
+        },
+        {
+            "path": "coding/play.bin",
+            "size": 12292,
+            "sha256": "59fd8d99983d71d1007befc71ab25fe141162eb439c570aa9727a48158fcc2d2"
+        },
+        {
+            "path": "coding/right.bin",
+            "size": 12292,
+            "sha256": "581a66e5a1bf4a1233de52990a9a9c2cf7c51d0fe88c47d4c3f5026e1334489c"
+        },
+        {
+            "path": "coding/R_turn.bin",
+            "size": 57136,
+            "sha256": "d6f0cd81561aece33f1deee2d08c77d1587590c29628f04781c47d75abc78369"
+        },
+        {
+            "path": "coding/sgogo.bin",
+            "size": 12292,
+            "sha256": "4e9a3eb664b3815d6eda387e500208ab85458cc3ed6474060a560e84502ca1ac"
+        },
+        {
+            "path": "coding/speak.bin",
+            "size": 12292,
+            "sha256": "ad6648490a3e331776e12de281a3d9b22ac025446dbb063668743c24498c5229"
+        },
+        {
+            "path": "coding/tracer.bin",
+            "size": 12292,
+            "sha256": "0df0a81aa6ac8e430410da9814949711924195d5cd35bcd5830f559aaf81bceb"
+        },
+        {
+            "path": "coding/waitOne.bin",
+            "size": 3076,
+            "sha256": "ba0e21cd40ab2e01929ce8fa11268b7f9a2ff68bd358326dd2dd999bf4851124"
+        },
+        {
+            "path": "download/file.index",
+            "size": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "emotion/angry.wav",
+            "size": 118256,
+            "sha256": "db4c4bfb63b6976e17b23278f527e4dcf57d8818379f723f7bbacd6bd6892aa8"
+        },
+        {
+            "path": "emotion/basic1.wav",
+            "size": 103556,
+            "sha256": "717edb5b139604bd8b51c4f42e99439d9229d9b6acc615fd52c56be9a3ea388c"
+        },
+        {
+            "path": "emotion/basic3.wav",
+            "size": 147656,
+            "sha256": "af72ee99370c8cf9397366ed39e69f6b76e1adaeab05a862e9ee2b74ccfe325d"
+        },
+        {
+            "path": "emotion/basic4.wav",
+            "size": 118256,
+            "sha256": "990a49d3c03d54212627286c3ae209e60bc6f80d897e2dd60a3a11d039310732"
+        },
+        {
+            "path": "emotion/basic5.wav",
+            "size": 147656,
+            "sha256": "1f9028a83809ac87da09a6270f76fd7e90d3bae9456027205379c7ed6165a7ea"
+        },
+        {
+            "path": "emotion/cant.wav",
+            "size": 103556,
+            "sha256": "78b82454c93edeb46c654b0fc59e0436947b4b7ef31ac510081cf26b3290b19b"
+        },
+        {
+            "path": "emotion/chaos.wav",
+            "size": 177056,
+            "sha256": "c15bec5ca4c09c9fe6e8cbff22ade653e765ad65c099057eabdfa3661d9f2ced"
+        },
+        {
+            "path": "emotion/crash.wav",
+            "size": 172768,
+            "sha256": "993b166619dee89417de5c598a4ac8f91bf1c90eb63cc0eb514a05d25a4191a7"
+        },
+        {
+            "path": "emotion/emo_01.bin",
+            "size": 11911,
+            "sha256": "7be1b5805ae745e005916f5e0fba68b3f3c5a12826cff2b75dede9519800b71a"
+        },
+        {
+            "path": "emotion/emo_02.bin",
+            "size": 11911,
+            "sha256": "7be1b5805ae745e005916f5e0fba68b3f3c5a12826cff2b75dede9519800b71a"
+        },
+        {
+            "path": "emotion/emo_03.bin",
+            "size": 11911,
+            "sha256": "3bd50f759efaad609dd0689fb1be33b0ad21c281bd88de020db42ad28793a671"
+        },
+        {
+            "path": "emotion/emo_04.bin",
+            "size": 11911,
+            "sha256": "e975de35451564f958336e15d505b56db202c63b43d0bbb4b5b088fe37f0a90a"
+        },
+        {
+            "path": "emotion/emo_05.bin",
+            "size": 11911,
+            "sha256": "f76abe8afe4f1ac116ac4cea7986e5bb6604ad735109f6d3d93e00e33330c4c7"
+        },
+        {
+            "path": "emotion/emo_06.bin",
+            "size": 11911,
+            "sha256": "f343d308b99eda9d0716256f2fa5b40ed086a7f9420de330cc6e22221e56c547"
+        },
+        {
+            "path": "emotion/emo_07.bin",
+            "size": 11911,
+            "sha256": "9ea4484fe23be00cf1179d76496fe5a4387d4ffb5276d90e596b27274494b4bc"
+        },
+        {
+            "path": "emotion/emo_08.bin",
+            "size": 11911,
+            "sha256": "529505a25d60f3c4234675c65e1dd4d4c947194d453aac12533228c740f2bd67"
+        },
+        {
+            "path": "emotion/emo_09.bin",
+            "size": 11722,
+            "sha256": "f1eccf16417924ae69f215418738f5363a3a2a159079281caac8860b379162af"
+        },
+        {
+            "path": "emotion/emo_10.bin",
+            "size": 11722,
+            "sha256": "71d1ba699bd3c5bad1e0bf16f4889d5c7e94ecc7bbbeac21e73da609b0103430"
+        },
+        {
+            "path": "emotion/emo_11.bin",
+            "size": 11911,
+            "sha256": "b447b248c23956554fc83e005acdea445d5085dc55887c7280561e189c3910c5"
+        },
+        {
+            "path": "emotion/emo_12.bin",
+            "size": 11911,
+            "sha256": "9d7106203f7f4b180869fd8d44faf09c749fc27a76603441cde6e0675987c0e6"
+        },
+        {
+            "path": "emotion/emo_13.bin",
+            "size": 11536,
+            "sha256": "994c8d883596368227ddc8e32ed151ca0b1f793122ae0d549c71263df80badaf"
+        },
+        {
+            "path": "emotion/love.wav",
+            "size": 147656,
+            "sha256": "ea86a0fb44d6d3af382659f52453252d7cc1d9528e42a2cb9b64cd03d0f22180"
+        },
+        {
+            "path": "emotion/nice.wav",
+            "size": 99268,
+            "sha256": "2fb9612a8e2fa4d0becebe3bf36317ae5faac89d51a2bdb1452ed4800feae706"
+        },
+        {
+            "path": "emotion/sad.wav",
+            "size": 147656,
+            "sha256": "2cbc327911f128298403d3574142db7f863aa47a618550f9e6b495ec17a4d4a7"
+        },
+        {
+            "path": "emotion/sleep.wav",
+            "size": 147656,
+            "sha256": "2e6aff747f447a241e18f3a396b7f03682482426e96c78a35eac2d01803009fb"
+        },
+        {
+            "path": "emotion/sleep2.wav",
+            "size": 103556,
+            "sha256": "546b4c65f01c5b3f006ba0f9ddbc4f5a0a050021a8208f1e2f24221fc4ab4723"
+        },
+        {
+            "path": "emotion/smile.wav",
+            "size": 103556,
+            "sha256": "29cac108f65f4ca92bb6c52071255f9abca376b4b3f07d05894eab2a52ea5bf8"
+        },
+        {
+            "path": "emotion/suprised.wav",
+            "size": 141532,
+            "sha256": "db3eedc5460575eb6cad13c1cbce54fa041a1150f361a81124a8bc1e960f8056"
+        },
+        {
+            "path": "hiesp8q8/wn8q8_data",
+            "size": 865486,
+            "sha256": "be7a7aef1d57f84c2dbe48e9282a30745cfde3b75866da43cb217086a0fdb464"
+        },
+        {
+            "path": "hiesp8q8/wn8q8_index",
+            "size": 648,
+            "sha256": "9078691a22840e9462e0b984b66d0d11029df62b81fa08214905bfe9ebf2e59b"
+        },
+        {
+            "path": "hiesp8q8/_MODEL_INFO_",
+            "size": 32,
+            "sha256": "1a6753ebed8beb50b5e668e19bf9b6022f0dc92601b94c882bc518f2e419fba7"
+        },
+        {
+            "path": "HW_firm/firm1.hex",
+            "size": 73286,
+            "sha256": "7174ec291a622fdcaf77ce0ea3b904c02c88c9129715f2624f767bc5348f366d"
+        },
+        {
+            "path": "HW_firm/firm2.hex",
+            "size": 12859,
+            "sha256": "4185e7bcd4ea9a47486bb4af9fce1625186eab6a618ed2d9584d45ca1f5641e2"
+        },
+        {
+            "path": "HW_firm/HW_recovery.hex",
+            "size": 71069,
+            "sha256": "c4af44598ed4b3bdeffecc0001af1b9ce60afb47a4faa2c96e5dbf785f317c91"
+        },
+        {
+            "path": "love/lockl.bin",
+            "size": 18634,
+            "sha256": "2a9276209d75daabc7d9cb9b720c29e717230050b3535f4da71c352d69a73fde"
+        },
+        {
+            "path": "love/lockl1.bin",
+            "size": 18634,
+            "sha256": "61b30e658ba84b951c0c2a4a91acbca0b477b62fd3a545d3af7124e308fc4225"
+        },
+        {
+            "path": "love/lockl10.bin",
+            "size": 18634,
+            "sha256": "01e96bfec0df72dedbec86c546fe833b48134de6f1ce894cbf429670b9d37218"
+        },
+        {
+            "path": "love/lockl11.bin",
+            "size": 18634,
+            "sha256": "be3be5dd7c91be5291c1b473d21b60b3df0571f9b7bd7be0f3431064eb4b929a"
+        },
+        {
+            "path": "love/lockl12.bin",
+            "size": 18634,
+            "sha256": "063e6cb66a8df8a32afbb5930ffcd64a020c8ad831ac42a63e15d328a5e81a80"
+        },
+        {
+            "path": "love/lockl13.bin",
+            "size": 18634,
+            "sha256": "f9fae472c39cb1841b2348b44dab098ed415eac244939054d9453c486baab80c"
+        },
+        {
+            "path": "love/lockl14.bin",
+            "size": 18634,
+            "sha256": "e5d62bc94c3713e70aed95e2b616626eac5337d342dea844e2e8f433072cfbe8"
+        },
+        {
+            "path": "love/lockl15.bin",
+            "size": 18634,
+            "sha256": "766f223fe625d7e3af59a7879df23003e31ae4e12ed63ae65e912d9f6a216f57"
+        },
+        {
+            "path": "love/lockl16.bin",
+            "size": 18634,
+            "sha256": "3f467498bd4abd7219d6cb469ba79011ca061b152cd12c8a98c11190772a8abb"
+        },
+        {
+            "path": "love/lockl17.bin",
+            "size": 18634,
+            "sha256": "f4ba34202435f9e1012699925f9ee0f9d5eac5b498398d5f3112e99bc5955ada"
+        },
+        {
+            "path": "love/lockl18.bin",
+            "size": 18634,
+            "sha256": "e3c1cd0997ac6c91a956116f1fd440c961ab097433e84d2c2c80f44fe8bf6e24"
+        },
+        {
+            "path": "love/lockl19.bin",
+            "size": 18634,
+            "sha256": "fc704db3a50e842fa6f544e89621ebb38a4c3b48f8a6627bad3ac15663572be5"
+        },
+        {
+            "path": "love/lockl2.bin",
+            "size": 18634,
+            "sha256": "0b6b7f0f3fba35d88dd7d644b097ad5cb238e567906e3b17f9792f67afff2bf5"
+        },
+        {
+            "path": "love/lockl20.bin",
+            "size": 19984,
+            "sha256": "137446e461d299c4afb2e5e9fdeae2626decc2ebd1ba2132314ab0a60ecf74e9"
+        },
+        {
+            "path": "love/lockl3.bin",
+            "size": 18634,
+            "sha256": "0ed4e3e6556b3644d065e3a3e25634482ecfa885d7ffe5d369f1fe8ad4f61db1"
+        },
+        {
+            "path": "love/lockl4.bin",
+            "size": 18634,
+            "sha256": "c566fbb4624b6285442223ff6295dd6b6e580fa2c5b8bddf9c3b7e4a4808b7fe"
+        },
+        {
+            "path": "love/lockl5.bin",
+            "size": 18634,
+            "sha256": "7c5874175be52c49ab4f676d879d64dc7dad5e0ab62cdad1dc8b5e7d5d1d3cc9"
+        },
+        {
+            "path": "love/lockl6.bin",
+            "size": 18634,
+            "sha256": "d7576aefc5c18ea344fe84ebf640b4cc34d2fc37b898a070d70ef19a6c928110"
+        },
+        {
+            "path": "love/lockl7.bin",
+            "size": 18634,
+            "sha256": "c45b1d419be0f7068c3cda256ec018111fa7afff8f68859206ad04fb7b1a8ca8"
+        },
+        {
+            "path": "love/lockl8.bin",
+            "size": 18634,
+            "sha256": "d7595c91c99cafb8e25e92bcd7ed0baa22328321b72aa2e41d65ef77758c3fb7"
+        },
+        {
+            "path": "love/lockl9.bin",
+            "size": 18634,
+            "sha256": "14530fc8cefddb81d1c5e7be607d26d3e5f797cc8cac2629e7173d19db55ee4e"
+        },
+        {
+            "path": "love/locks.bin",
+            "size": 2404,
+            "sha256": "9fb797b691da6e20967cf4b2f555eb646027a51c0b6c7c46ff4f7c1f2aea1cb6"
+        },
+        {
+            "path": "love/locks1.bin",
+            "size": 2404,
+            "sha256": "4d576b62df5f525d9e7a80d5ce25d57bbbb2f9d63ec81ad5bc8a1287f6cde42f"
+        },
+        {
+            "path": "love/locks10.bin",
+            "size": 2404,
+            "sha256": "a8db8f2ebc85f96759847a5bbe0dce1cfde68eef3c3df09eeb204f87eff4df66"
+        },
+        {
+            "path": "love/locks11.bin",
+            "size": 2404,
+            "sha256": "b33a57bc93f4718f746e148e89837b60a48ca44794082ba075f30cb587d3901d"
+        },
+        {
+            "path": "love/locks12.bin",
+            "size": 2404,
+            "sha256": "cbd1d4feae368477282c48190c6ab73ee434e1830572d41a30f306921dc4b511"
+        },
+        {
+            "path": "love/locks13.bin",
+            "size": 2404,
+            "sha256": "a835c1dcf3f03515f34934110aabee348e6e9c6dd93d57342e0b9c77676d1e0b"
+        },
+        {
+            "path": "love/locks14.bin",
+            "size": 2404,
+            "sha256": "dd9fb53fb7c2198686fdcffb5b39edc70f0d3000a042fd01da88d891c9f04ec9"
+        },
+        {
+            "path": "love/locks15.bin",
+            "size": 2404,
+            "sha256": "c324e02e2eee205d424fe8ee9b68db044ca68c3df38c1fecb84b3042307092aa"
+        },
+        {
+            "path": "love/locks16.bin",
+            "size": 2404,
+            "sha256": "3f3d8f724c7825b0aa6de8ce88d00a5d83dfb7b3502f1d51922d29f662f8969b"
+        },
+        {
+            "path": "love/locks17.bin",
+            "size": 2404,
+            "sha256": "927448f7e74efbdcf32c1646c7fc442ae369f57281e1af6b5215aff1aae7cbf3"
+        },
+        {
+            "path": "love/locks18.bin",
+            "size": 2404,
+            "sha256": "f64c6059eb4810fae9a802d83ffa5d3cfc967eb6aa6d4ccdf509876e9029d88f"
+        },
+        {
+            "path": "love/locks19.bin",
+            "size": 2404,
+            "sha256": "0dd55ae3f4bfc43be3944bb804c0eabe845d6aaac2ab44889fc700ebe2b7e862"
+        },
+        {
+            "path": "love/locks2.bin",
+            "size": 2404,
+            "sha256": "7c3ccd506334d0a6376fe4993dcfe70b190f4696cdcbc71964e073c275dbc55d"
+        },
+        {
+            "path": "love/locks20.bin",
+            "size": 2500,
+            "sha256": "04a0070d34e925951415a9f4786546a7d8d3b85d36abc4b161e716c365eac36c"
+        },
+        {
+            "path": "love/locks3.bin",
+            "size": 2404,
+            "sha256": "e7ca97919c04ce535201cbd3d294262aba3209c0c69ffcb61a6700210ec97dc4"
+        },
+        {
+            "path": "love/locks4.bin",
+            "size": 2404,
+            "sha256": "6efb7d681df8db5bd11ba06bf99d3ada1dc2fe76f045bd637b552119680cda28"
+        },
+        {
+            "path": "love/locks5.bin",
+            "size": 2404,
+            "sha256": "a9ef115bc1eb775d4377f0bc67f5ee2b426b0d45aed5beead3888bb07ed15aeb"
+        },
+        {
+            "path": "love/locks6.bin",
+            "size": 2404,
+            "sha256": "c9c23720a84c87db03cb6bb036ae79935a8b2caace4c2779c0bc893b3acd0937"
+        },
+        {
+            "path": "love/locks7.bin",
+            "size": 2404,
+            "sha256": "7c55c5fdb1c54468be95273e79a3e03e31e28b76388263a655d31391852b3cf3"
+        },
+        {
+            "path": "love/locks8.bin",
+            "size": 2404,
+            "sha256": "a66b36fa2c94bce089df0fc6f69496ec5b7c9d20fd888a9097ba9a23eccdc6fa"
+        },
+        {
+            "path": "love/locks9.bin",
+            "size": 2404,
+            "sha256": "a4988415e4d1811d116c41bf163f4473c3ba201e47afdf95051f9c6a170654ef"
+        },
+        {
+            "path": "love/stBg1.bin",
+            "size": 110084,
+            "sha256": "6045f99d01ebf4520401b9942a12bdb773b02c6aac3a2c01da678655c85ec297"
+        },
+        {
+            "path": "love/stBg10.bin",
+            "size": 110084,
+            "sha256": "41990e296fb166252c1d474e4808fe196a7f8f3c259a35dd592cf8116dd949fa"
+        },
+        {
+            "path": "love/stBg2.bin",
+            "size": 110084,
+            "sha256": "9d780e50fed056e780e9e9373245a2c74e2c9e4f3426ead725eafaf701636e47"
+        },
+        {
+            "path": "love/stBg3.bin",
+            "size": 110084,
+            "sha256": "673b2ec853415a844ab849079a61ff0e7690ab7ebd67c41fdb2b7fce5f49e9b5"
+        },
+        {
+            "path": "love/stBg4.bin",
+            "size": 110084,
+            "sha256": "eb693f53ef932a7a961664c5b3cca6423e44b8d655ec52f818af6ee99cacb4ab"
+        },
+        {
+            "path": "love/stBg5.bin",
+            "size": 110084,
+            "sha256": "74a8c32b0f70793e42aad32b7b200829185dd585cf14391feef68bc9efbbeb83"
+        },
+        {
+            "path": "love/stBg6.bin",
+            "size": 110084,
+            "sha256": "d0831ca5601615a725033633b39ffe47c47d5cac5280b8fa1db435eb58582c40"
+        },
+        {
+            "path": "love/stBg7.bin",
+            "size": 110084,
+            "sha256": "b2727a22ecbf751cb6c15f3ee9d8c716ba6c280649d85ec805851aafaeed38e1"
+        },
+        {
+            "path": "love/stBg8.bin",
+            "size": 110084,
+            "sha256": "4a251d3536a8865929e99b51a3f5c36b929df7644c1e50dd010c0f22a8095a12"
+        },
+        {
+            "path": "love/stBg9.bin",
+            "size": 110084,
+            "sha256": "def87f9c1cdc16ca7a1a5c43e1452dae2d4e4c91a6548231efb582ec637334ca"
+        },
+        {
+            "path": "love/tl1.bin",
+            "size": 25924,
+            "sha256": "41204f1d92f2c0fb540e8c08980aa4f48451547b0c38de78cb1b576a62953d10"
+        },
+        {
+            "path": "love/tl10.bin",
+            "size": 26464,
+            "sha256": "3d81bd87ae6f259a05234488ca1555ff7d80b5faa397632f350f44a65775ea50"
+        },
+        {
+            "path": "love/tl11.bin",
+            "size": 25924,
+            "sha256": "bca0e4021eb943797ab80d5da6b56a7b0491e6f1bd4bd833be639e4601dd0de1"
+        },
+        {
+            "path": "love/tl12.bin",
+            "size": 25384,
+            "sha256": "9df0adc86e58098905e8f9e1271bb35e5a90a430c0f6777cc3fb56f21fe88a59"
+        },
+        {
+            "path": "love/tl13.bin",
+            "size": 25384,
+            "sha256": "bcc24cd7ba66448d4eba4c622386e3419c318640827024bdc60b2271e0ab18cf"
+        },
+        {
+            "path": "love/tl14.bin",
+            "size": 27004,
+            "sha256": "12771a4ea168895262dcd90eef84871d49fb32d0b4a302b27c4159df58258100"
+        },
+        {
+            "path": "love/tl15.bin",
+            "size": 26194,
+            "sha256": "4ce49fb75d9c2afc71a2b3d2a064c2ec3750db56017590d690806c4fe07e9b1b"
+        },
+        {
+            "path": "love/tl16.bin",
+            "size": 26194,
+            "sha256": "59b4fd8208a5684a626aa094e740fbb9f3a3e013e24dd0b4262d1fc27cad04b8"
+        },
+        {
+            "path": "love/tl17.bin",
+            "size": 26734,
+            "sha256": "e2a99b3c822712b85cea3f07cbb57e084ca90c3e0be5c2afe43123e6a93b9b6f"
+        },
+        {
+            "path": "love/tl18.bin",
+            "size": 26464,
+            "sha256": "a8281da193256116d5bfe158f0f6f8bbc5dc2f0ddba948f1a14c489227a6cb34"
+        },
+        {
+            "path": "love/tl19.bin",
+            "size": 29164,
+            "sha256": "47c687f7526d74bfd4965af6fac614e720c0a0c7996adc330056f1305200a315"
+        },
+        {
+            "path": "love/tl2.bin",
+            "size": 26734,
+            "sha256": "b42a73e340480a0c98ed780c071bbfa19ef9c2c7e9e4874e8538f1c50bfcd2a8"
+        },
+        {
+            "path": "love/tl20.bin",
+            "size": 24304,
+            "sha256": "5d8a5666d0917dda1e4056a970d757df117450c452330a47c2a403617a72497b"
+        },
+        {
+            "path": "love/tl3.bin",
+            "size": 27004,
+            "sha256": "b0283901071f1cb2974d2bc5e3bdd6ce6152cd369ef6ca98e5c9f5b371a43af3"
+        },
+        {
+            "path": "love/tl4.bin",
+            "size": 27274,
+            "sha256": "7d51c499d25caf63880f45b8b45619585b25ad4f80f92c190c7b6833100e1a7b"
+        },
+        {
+            "path": "love/tl5.bin",
+            "size": 27004,
+            "sha256": "f4e12544a3e77355e40f0e64355b0d0b61ee80e0be4e81702240807a31aabad7"
+        },
+        {
+            "path": "love/tl6.bin",
+            "size": 27274,
+            "sha256": "ca556fe0e7905d7e4180ed5eeb811ef064c150faa71fef67d85e296f9c680fb4"
+        },
+        {
+            "path": "love/tl7.bin",
+            "size": 27004,
+            "sha256": "d8aed5a4e7f606ab2ca026ceb18375427c010f67bd170db7c3ac0bb01634147d"
+        },
+        {
+            "path": "love/tl8.bin",
+            "size": 26734,
+            "sha256": "ef0cd1b8f3db5187dc8172495c9ea7a16c25b8fdd69ed61a405d36b1836a0832"
+        },
+        {
+            "path": "love/tl9.bin",
+            "size": 27004,
+            "sha256": "9e36be62f9e31aca1d422a33c2267ad59e8792b1914198e18a8890bfff9b4436"
+        },
+        {
+            "path": "love/ts1.bin",
+            "size": 3268,
+            "sha256": "b61ca6421f7d710b93f14081aa6ff533330474338de0a642a7669fb4fb08210c"
+        },
+        {
+            "path": "love/ts10.bin",
+            "size": 3364,
+            "sha256": "8ace732334f00232b0f7efbe78061e6d17c565e849031522cd24fe29f76089f8"
+        },
+        {
+            "path": "love/ts11.bin",
+            "size": 3268,
+            "sha256": "4bd408dfb8cbf336e7f743e2195ac273cee354a7cb27413c06abc6dde8e62747"
+        },
+        {
+            "path": "love/ts12.bin",
+            "size": 3268,
+            "sha256": "0a14e5ced34ddb6431defe7d27178c13f76ca8222e53fdd032b18194005119cb"
+        },
+        {
+            "path": "love/ts13.bin",
+            "size": 3268,
+            "sha256": "c8707b700acbb49694d51d1808ef832f0c9f5a909ee5fd9d5cc8aa3135161b3d"
+        },
+        {
+            "path": "love/ts14.bin",
+            "size": 3364,
+            "sha256": "29e8da02a43fc9abc2528c5a443567c487d4603736613164f3d8a8e96954ceba"
+        },
+        {
+            "path": "love/ts15.bin",
+            "size": 3268,
+            "sha256": "55d070beeef5444e575fa76d784051195d2bb242295c61d403afada3765f005b"
+        },
+        {
+            "path": "love/ts16.bin",
+            "size": 3268,
+            "sha256": "72f210a22b51ddf73cf8f4c118201716d2fcaca260c21e3b2f559b7fdb48dfd5"
+        },
+        {
+            "path": "love/ts17.bin",
+            "size": 3364,
+            "sha256": "57afae723d9679901864e4edb44f6f60d678b582f42b74954c2584cdf1f5e2f8"
+        },
+        {
+            "path": "love/ts18.bin",
+            "size": 3364,
+            "sha256": "7e9246d5073ea1fc81a1ddb5ad9beba391165a18329ac67a8bb8eb053a2e9736"
+        },
+        {
+            "path": "love/ts19.bin",
+            "size": 3652,
+            "sha256": "67ed442b2f07834220c9a3acd120fc47c832a647bcadeb73d654fbdf4454d2b8"
+        },
+        {
+            "path": "love/ts2.bin",
+            "size": 3364,
+            "sha256": "b3e57da7fddb231c5e6f0ffea55fb59cf3e9eba9d7d1abe12dcf7a4a243d672e"
+        },
+        {
+            "path": "love/ts20.bin",
+            "size": 3076,
+            "sha256": "2589f938aa2441fb2a1ec8de5adff91cf728026c447eb889da517f9eb1c70c8e"
+        },
+        {
+            "path": "love/ts3.bin",
+            "size": 3364,
+            "sha256": "4167c23f6a5279871900d29cdb5ab6b50d9f36abf3c569298c1e31e890bdb958"
+        },
+        {
+            "path": "love/ts4.bin",
+            "size": 3460,
+            "sha256": "cfc523266a5861fa646d9844a1e3bb1f9c006a8710143d2565a622972035928b"
+        },
+        {
+            "path": "love/ts5.bin",
+            "size": 3460,
+            "sha256": "fb28d6d719d5f3c692b431e3c886ab25b00496bdd3fd2309d334c16044c2f267"
+        },
+        {
+            "path": "love/ts6.bin",
+            "size": 3460,
+            "sha256": "c6601faaa244ebccfc2618eb9412bc13f30711c17a12f6a351244127979c7820"
+        },
+        {
+            "path": "love/ts7.bin",
+            "size": 3460,
+            "sha256": "33cb5078697b20757bd66c227553505c5c687ff9b2ef9fbe4fbd51f4fb7d5719"
+        },
+        {
+            "path": "love/ts8.bin",
+            "size": 3364,
+            "sha256": "8562de55a5d101f386472cf6c239ecf98ac07897cbf90da01b230e298e135227"
+        },
+        {
+            "path": "love/ts9.bin",
+            "size": 3460,
+            "sha256": "7ddb7fdcb697e920565358547b57f6d4f17c82c06809c8941633644ab35628cf"
+        },
+        {
+            "path": "love/t_m.bin",
+            "size": 39694,
+            "sha256": "0e5628dd0bf216082c43e38dc17b5025d3fed3ea8eb9b351bc464391f548ffad"
+        },
+        {
+            "path": "Main_firm/main_recovery.bin",
+            "size": 2770400,
+            "sha256": "f19c8bf47886c5bd04a0fcae5722894685d172a8d3d4f5cd0a4b33187e4b7ff8"
+        },
+        {
+            "path": "mn5q8en/mn5q8en_data",
+            "size": 2175501,
+            "sha256": "a34ab058d66413d4373fd0f8f66d6176cfca48a93511505c777a9181be53067f"
+        },
+        {
+            "path": "mn5q8en/mn5q8en_index",
+            "size": 1536,
+            "sha256": "2fd0ee1e8ecaa1c1fe88db489694780bd4a4e9107b79fbe07d442629e1a91ccc"
+        },
+        {
+            "path": "mn5q8en/_MODEL_INFO_",
+            "size": 27,
+            "sha256": "fca9847a8fbf289add5f631f7167bfeed79f22fa5704311b7e12f28d0f191ef7"
+        },
+        {
+            "path": "notes/A5.wav",
+            "size": 82988,
+            "sha256": "d268043dac048e291b0c2307f02364758d73975cf72854d4f7c9b749f31b7d17"
+        },
+        {
+            "path": "notes/B5.wav",
+            "size": 82988,
+            "sha256": "1fbfcbcd126705dcfe15c3b9373acb0bfb1a8ea515c5e097df6e87e1c23e8c5f"
+        },
+        {
+            "path": "notes/C5.wav",
+            "size": 82988,
+            "sha256": "1fb7614876c1a14c328a6462136023a60a7f8852182ec44c573374a42f29503c"
+        },
+        {
+            "path": "notes/C6.wav",
+            "size": 82988,
+            "sha256": "d5f25120adfddc940c6d48f503381c2a9a0ead4de8b0c4840b17a10de1175eca"
+        },
+        {
+            "path": "notes/D5.wav",
+            "size": 82988,
+            "sha256": "3d0598ac3f18ce33613e30f098f92ddeba1baa58a0488bf788fb068ccf77d264"
+        },
+        {
+            "path": "notes/E5.wav",
+            "size": 82988,
+            "sha256": "1be346118c80c60ee12b228c74388d372380de8dd70bb2e91cd99aa13bdb8462"
+        },
+        {
+            "path": "notes/F5.wav",
+            "size": 82988,
+            "sha256": "5f2a93dd18d0919e2b264144a6c6ed52832b5aa8f2ec3d2d59fbd002aebf8020"
+        },
+        {
+            "path": "notes/G5.wav",
+            "size": 82988,
+            "sha256": "3fef18fdc8b14a748a6ad44a2601e32fed9a8dfb1a0725fa313b7fca6870f4dd"
+        },
+        {
+            "path": "notes/no.wav",
+            "size": 350252,
+            "sha256": "123b156071db8d319fe1f292419eec532d85078e18a7751e92d3319cc824d770"
+        },
+        {
+            "path": "notes/notes.wav",
+            "size": 350252,
+            "sha256": "123b156071db8d319fe1f292419eec532d85078e18a7751e92d3319cc824d770"
+        },
+        {
+            "path": "prompts/system_alloy.txt",
+            "size": 299,
+            "sha256": "99e019632e391e3cd4f546d0779e2d72ca68f650f4f0ebe9468762e05bba977c"
+        },
+        {
+            "path": "prompts/system_echo.txt",
+            "size": 253,
+            "sha256": "ba2422c7d8844ab6232145bd7e55e84fe2c182262f9e506ebda0a52711e97e7a"
+        },
+        {
+            "path": "prompts/system_fable.txt",
+            "size": 290,
+            "sha256": "ed16b07b92f14148190f4c6ecdf1577393707429106b9b85c08a4cb689597102"
+        },
+        {
+            "path": "prompts/system_nova.txt",
+            "size": 293,
+            "sha256": "139e7ad75184016cae7675e2b738551636fa8ce4e84b849891daaa66603ce4ef"
+        },
+        {
+            "path": "prompts/system_nova_eng.txt",
+            "size": 133,
+            "sha256": "9e538662b6502effc43b2073ca7a76ebf358469d66f843b2bf770f308d9d221f"
+        },
+        {
+            "path": "prompts/system_nova_kr.txt",
+            "size": 158,
+            "sha256": "b694efde9e3b42fce227357567335374b440da2ba4e86c04272c30e9f5256895"
+        },
+        {
+            "path": "prompts/system_onyx.txt",
+            "size": 263,
+            "sha256": "882addc4c093d065de233a0ee6ed941d2035ffcb23627260d6555f529aa861d3"
+        },
+        {
+            "path": "prompts/system_shimmer.txt",
+            "size": 276,
+            "sha256": "9034e708ac111228d4cd3816cea00d5459c9eec33e00346db28b90fc9e5106e1"
+        },
+        {
+            "path": "qr/qr01.bin",
+            "size": 110084,
+            "sha256": "69fba5b61b5e3a4d320ce5e8f94c248f4952b3d611c61c9b8299917621cd696e"
+        },
+        {
+            "path": "qr/qr03.bin",
+            "size": 110084,
+            "sha256": "6a3c9f23a60684d8571cc8e3eb8bf133d64fe7fee3b5cbdc9bcd769ddfdb9de2"
+        },
+        {
+            "path": "qr/qr04.bin",
+            "size": 110084,
+            "sha256": "947174e2b2705d6bc694b2e5e74da163efd8f694daf6d5acdb97143a8bb44a10"
+        },
+        {
+            "path": "qr/qr_key.bin",
+            "size": 110084,
+            "sha256": "970a14b00e11f28bac6fd58ce66cbac400cb13ec80d109552eb16fbdeec9dac9"
+        },
+        {
+            "path": "qr/qr_site1.bin",
+            "size": 42054,
+            "sha256": "364a28b040f38c8ac1438af1419ee0306f8513fab68e11f48f600edb57607aeb"
+        },
+        {
+            "path": "qr/qr_site2.bin",
+            "size": 42054,
+            "sha256": "ed85966d2e208ea2a526d0a302354185beb9068af973663c14688431bc8e1b0c"
+        },
+        {
+            "path": "RECORDS/voice.mp3",
+            "size": 119040,
+            "sha256": "a8a07681176a120fab9e5d884f247a65c4bcd5a844fa10d4a541aa72bc2dc8aa"
+        },
+        {
+            "path": "sensor/ck_acc.bin",
+            "size": 36004,
+            "sha256": "cc49a348a4861e8f5aecf3d567eec115abdf6af7de6050cdd038715b5608bd0a"
+        },
+        {
+            "path": "sensor/ck_ang.bin",
+            "size": 31004,
+            "sha256": "acb79ff1d0f458bb1fade836a9cdc1c9edca1b754edc0c2bd0427e4cb2e8fea5"
+        },
+        {
+            "path": "sensor/ck_ang2.bin",
+            "size": 54204,
+            "sha256": "37f881468d1d761107bc61c9ae8095331fbbf6c10fb8079a01131e33dff3b7f2"
+        },
+        {
+            "path": "sensor/ck_ang3.bin",
+            "size": 44004,
+            "sha256": "4703b47fd4a5f92206f6097f3f5a09ab3c625380262d874fd19eaff8c396f92d"
+        },
+        {
+            "path": "sensor/ck_ang4.bin",
+            "size": 48804,
+            "sha256": "d861412aa0bdf9209fd968f9577db5543ac0cb20f32fbd7dcaf6354f9235f911"
+        },
+        {
+            "path": "sensor/ck_ang5.bin",
+            "size": 54204,
+            "sha256": "37f881468d1d761107bc61c9ae8095331fbbf6c10fb8079a01131e33dff3b7f2"
+        },
+        {
+            "path": "sensor/ck_bat.bin",
+            "size": 53004,
+            "sha256": "5d459e891be9076df877b9ec5d420f5201891d29384d655432846e7011e41a7b"
+        },
+        {
+            "path": "sensor/ck_but.bin",
+            "size": 12964,
+            "sha256": "51a61673f8f88576ef59183ba01297bf1bed6569a0999fe7baafac8ca9e675f3"
+        },
+        {
+            "path": "sensor/ck_ir.bin",
+            "size": 27564,
+            "sha256": "4f3dd6636c09694c31ba634e017b55852a52ae477cc00db3e4219bd51c777d38"
+        },
+        {
+            "path": "sensor/ck_line.bin",
+            "size": 59924,
+            "sha256": "debeaefc2fc401962cba829b485b2069c017061aeb2c3fd94117f01a05eea585"
+        },
+        {
+            "path": "sensor/ck_motor.bin",
+            "size": 76144,
+            "sha256": "073b2c404c4b968fa8dc3ba3e849b72acf1abe25686125d09153233eb701371b"
+        },
+        {
+            "path": "sensor/ck_note.bin",
+            "size": 3004,
+            "sha256": "12d1da493dd0478bc682829d8de30e9455c8c573a33d758794a08e7ad276d110"
+        },
+        {
+            "path": "sensor/ck_note1.bin",
+            "size": 3004,
+            "sha256": "08ea46f33c137f5707a5c414426310f3254785864993eab32d0d1ad8795678bc"
+        },
+        {
+            "path": "sensor/ck_note2.bin",
+            "size": 3004,
+            "sha256": "12d1da493dd0478bc682829d8de30e9455c8c573a33d758794a08e7ad276d110"
+        },
+        {
+            "path": "sensor/ck_note3.bin",
+            "size": 3004,
+            "sha256": "a997088f47f13a5ab3f923b2f8ef337e4feb8a52d16e638b363c38d1b9bd0f8c"
+        },
+        {
+            "path": "sensor/ck_note4.bin",
+            "size": 3064,
+            "sha256": "dc2ffe8db64942983e901345917b9cd8ee609244795bf211947d161483f8eef2"
+        },
+        {
+            "path": "sensor/ck_note42.bin",
+            "size": 3004,
+            "sha256": "ac33f956f22cb26d13497208732433d10a811c73097ce0b31a94d973cb1b5877"
+        },
+        {
+            "path": "sensor/ck_note5.bin",
+            "size": 3064,
+            "sha256": "0e5df84f88a54080b7e0945f6142bdcddd04f97e14795f2081d24d3590d25dc3"
+        },
+        {
+            "path": "sensor/ck_note6.bin",
+            "size": 3064,
+            "sha256": "a45f5224b2c5a6961c183b58e6c62ae11fc7e4384b44a296a16da6da2e9a0490"
+        },
+        {
+            "path": "sensor/ck_note7.bin",
+            "size": 3004,
+            "sha256": "4fb1abd14d4c8fec9beed427f43c3684a927bac402019ade2b2e1378eeee97fc"
+        },
+        {
+            "path": "sensor/ck_note8.bin",
+            "size": 3004,
+            "sha256": "f3c1367e31dde5faff6a5f478cd23d29517e1c6a2cae9451a22bbcbb3a042c59"
+        },
+        {
+            "path": "sensor/ck_note9.bin",
+            "size": 3064,
+            "sha256": "dc2ffe8db64942983e901345917b9cd8ee609244795bf211947d161483f8eef2"
+        },
+        {
+            "path": "sfx/congra1.wav",
+            "size": 282908,
+            "sha256": "a353199d8cc6248b8829a7ad14261a9819d8f8d9278ff4d61ee3793897ce2313"
+        },
+        {
+            "path": "sfx/congra2.wav",
+            "size": 216208,
+            "sha256": "9cc61bfb23b76602d8e7b48985fecf34f0388d2abfb5dc1bff1e4cdd94c27d35"
+        },
+        {
+            "path": "sfx/congra3.wav",
+            "size": 375384,
+            "sha256": "8bc5ab91d50655928b0bb9ef8e51f4940ca1d9fdec322309bb9d5d4f128d73e2"
+        },
+        {
+            "path": "sfx/flG4.wav",
+            "size": 43144,
+            "sha256": "bb6a7462003b3b78ff8b622b9684858c7a2c5501936e7ff0c8c9e225331ef09a"
+        },
+        {
+            "path": "sfx/pong1.wav",
+            "size": 109128,
+            "sha256": "86aee40416c7b5c55b3150ce3cffecefc27ae52665f228a14e40948e2454bf0c"
+        },
+        {
+            "path": "sfx/pong2.wav",
+            "size": 39212,
+            "sha256": "29746480e26f885f1d9b6824322cb0f94216b1d6d24b3289f1e331834153f144"
+        },
+        {
+            "path": "sfx/pong3.wav",
+            "size": 112700,
+            "sha256": "ccafd33bc221640d3f26c56cd460418217ae5cb15447560a0ae3247b29c9a12a"
+        },
+        {
+            "path": "sfx/sel1.wav",
+            "size": 69348,
+            "sha256": "e970bdb4afbfeb10a451aff06b6f4e6249fa25bfa18461b51604fa2f7535d3a9"
+        },
+        {
+            "path": "sfx/sel2.wav",
+            "size": 147376,
+            "sha256": "20880be0b7e2c02038113efbb1f2aeeddfd5b0d8150fd0c1e0235b47d52db46f"
+        },
+        {
+            "path": "sfx/slide.wav",
+            "size": 16706,
+            "sha256": "dee549198c83dd329c15f80a27d8bba0a4cacdc9696b89f3f212d884f3d91800"
+        },
+        {
+            "path": "sfx/succ1.wav",
+            "size": 236676,
+            "sha256": "14d6d012f73d065b5b9ca14efe196c6d6b14a1792b36865fc6730d2216e81707"
+        },
+        {
+            "path": "sfx/succ2.wav",
+            "size": 96940,
+            "sha256": "148e86884aebe3e9bf75149e217c005b694e121e707e71ace08e5581197408cd"
+        },
+        {
+            "path": "sfx/ttalkak.wav",
+            "size": 53292,
+            "sha256": "6871a479c676a67e6e1187edaeebda22156f99d7519b3cb7b34ebb54d39f4bd8"
+        },
+        {
+            "path": "sfx/txt01.wav",
+            "size": 22096,
+            "sha256": "f696cea1ed78f22b22502ac9b0565be0f561a0d5d457367a922be912a2ccf45b"
+        },
+        {
+            "path": "sfx/wrong1.wav",
+            "size": 52150,
+            "sha256": "e63f599c90659a0b4529c72ea6c2c5f7e39f81ac177d1c24c32db74bc9c42b73"
+        },
+        {
+            "path": "sound/cat_01.wav",
+            "size": 852524,
+            "sha256": "216519e2223ffeb1677f9003bbbfa117739d2c83249e4f4a6ab74565c57ed596"
+        },
+        {
+            "path": "sound/Mcoin.wav",
+            "size": 169516,
+            "sha256": "882efb2bceb2c466584b14cd241fb51ea197abc1ddaa0069589b07856b774e3e"
+        },
+        {
+            "path": "sound/open.wav",
+            "size": 575180,
+            "sha256": "c3ce683c19f6ecada5ab486fb94acea87de232af861b33f39e2ca7849da1f4f0"
+        },
+        {
+            "path": "sound/RECORD.WAV",
+            "size": 278572,
+            "sha256": "e26f09ddaee1c3efa22d29ada1a05cf7411c818efe9ee98796b9e68972ff1809"
+        },
+        {
+            "path": "sound/record1.wav",
+            "size": 278572,
+            "sha256": "c00325d2d43ac3d54f888125c0a6d452e6749ac899646044cae7c275ebcfd900"
+        },
+        {
+            "path": "sound/RECORD2.WAV",
+            "size": 278572,
+            "sha256": "f757063f5ce6f9961628cbd58dc3931622e83af622ef55c3c232eae11cd28f2d"
+        },
+        {
+            "path": "sound/RECORD3.WAV",
+            "size": 278572,
+            "sha256": "9fc715afb298875137cb190c4ea28884382cfb8cfdd9c58419f98d77230e9e11"
+        },
+        {
+            "path": "sound/retry.wav",
+            "size": 653198,
+            "sha256": "afa36afb77ec50158db5588bf0c742d39a474fac0226257ec930b73b27f63ebe"
+        },
+        {
+            "path": "sound/sample.wav",
+            "size": 1076004,
+            "sha256": "3369382f6264fb56a78806f382d356cb8f1bae0132340fb3521d0a531d61b4d1"
+        },
+        {
+            "path": "sound/sht.wav",
+            "size": 136180,
+            "sha256": "93ac6bc8c37acdb1143e0911ec787d44db94f69d312c10e673124e4b13ce61bd"
+        },
+        {
+            "path": "sound/shutter.wav",
+            "size": 136232,
+            "sha256": "7e233c2b6e8d4d8305d02a46101336441cb851c3ab947e667b7c7c0c63c9dd85"
+        },
+        {
+            "path": "sound/slide.wav",
+            "size": 101652,
+            "sha256": "f90cdff1cdbbd1d8947704e19c3a113d7ca208a0c77183eab263636c66e36515"
+        },
+        {
+            "path": "sound/start_F3.wav",
+            "size": 64246,
+            "sha256": "01218abe7f0252d0a3ee3de0edfdf323f0b669a3fb1931f117df982599d56691"
+        },
+        {
+            "path": "sound/tap.wav",
+            "size": 5984,
+            "sha256": "78df6ba47af58c5e4dee01a70d07b9057932287b38c30911f337da84d9066241"
+        },
+        {
+            "path": "sound/test.wav",
+            "size": 560980,
+            "sha256": "8b63e6a15b156778417945b02987d6736d44721b638d1ced8b2121e34b11be89"
+        },
+        {
+            "path": "sound/touch_01.wav",
+            "size": 48232,
+            "sha256": "476a0de639b92c78a32f0836432bc3b9a0affd5ac6d83e48a68b6082de76bf3a"
+        },
+        {
+            "path": "sound/ttalkak.wav",
+            "size": 106540,
+            "sha256": "372b2e293e2c9c3bbac5191b4400fc0c876a77ea51e3e7c7d7fd1491313b737b"
+        },
+        {
+            "path": "sound2/cat.wav",
+            "size": 164572,
+            "sha256": "916def199623523f9922672295404fd3d9686cb08a167ce4ccc97a5729a9c043"
+        },
+        {
+            "path": "sound2/chrck.wav",
+            "size": 163724,
+            "sha256": "0bb79a64d076a6fb1d50199333ebe70c584f3de29ca78efabebe4c68dbe295c0"
+        },
+        {
+            "path": "sound2/fail.wav",
+            "size": 124712,
+            "sha256": "f1dfae8052fd8737c4e653db84069f3bfce4d2c84fa94acb5aec53f61aabe3d6"
+        },
+        {
+            "path": "sound2/fail2.wav",
+            "size": 117080,
+            "sha256": "ba8748578a4a4e87aca2601f93e5062e3bde5c77eeb6cacf6a2c6efe67e7dd3b"
+        },
+        {
+            "path": "sound2/honk.wav",
+            "size": 134888,
+            "sha256": "98e6603777ed954fef9bd21e9e13e5995bc5188dd41a337a2678e9376674f7b6"
+        },
+        {
+            "path": "sound2/honk2.wav",
+            "size": 195948,
+            "sha256": "a2ef779c584fecb0f7880cd949c1ea261c8d88f717b2a7610e24661e72a00188"
+        },
+        {
+            "path": "sound2/siren.wav",
+            "size": 912428,
+            "sha256": "84d6611fbc4aa20b58aae41eab51d1b1a69681d15f668893afd568b0857255fb"
+        },
+        {
+            "path": "sound2/success.wav",
+            "size": 194252,
+            "sha256": "d6539ca00bd454cde3f5e1fbc6ccf4b369a13b11eb66befe393c0702d31b9069"
+        },
+        {
+            "path": "tuto/tuE_0.bin",
+            "size": 108076,
+            "sha256": "295b2599d68a9dc8c856a525834d5228c2da9c50fa0d076db2166ef2c1020ab4"
+        },
+        {
+            "path": "tuto/tuE_1.bin",
+            "size": 108076,
+            "sha256": "96713f2d0152c61f9b075caff3d0b71d39494b3c4ed56b8750d2322aeeaeaccd"
+        },
+        {
+            "path": "tuto/tuE_10.bin",
+            "size": 108708,
+            "sha256": "6697a0997377e8e73e2ea12f51cb1a339a9d52c38558427d693b74bfe41d48b2"
+        },
+        {
+            "path": "tuto/tuE_11.bin",
+            "size": 108708,
+            "sha256": "e3016a5658d7fe49e006d9e408f7ae0d0865bdb1df02550d7d456926b5bebe0d"
+        },
+        {
+            "path": "tuto/tuE_12.bin",
+            "size": 108076,
+            "sha256": "63471c7e29ceff87b3e92ca08820583631762f5fe8adf17c4eb2bba58f77b874"
+        },
+        {
+            "path": "tuto/tuE_13.bin",
+            "size": 108076,
+            "sha256": "da210db6e2ef38c38b8b842d54822dd433d14680d3384a6bffc999cfeb3c53d3"
+        },
+        {
+            "path": "tuto/tuE_14.bin",
+            "size": 108708,
+            "sha256": "5dc4a817ce77ccf4da19828374a225f2f6799fa81b0aaba4a4f99e191ad32ae1"
+        },
+        {
+            "path": "tuto/tuE_15.bin",
+            "size": 108076,
+            "sha256": "75f0fbb9db35e12ef1ca8283c44944fdd7d504451141a1f10ed0b2791e7c0b60"
+        },
+        {
+            "path": "tuto/tuE_16.bin",
+            "size": 108076,
+            "sha256": "e2a257e7446f91cb5d5399b45ba61ee031ac36a022f98555d8bf3c1fe82601ce"
+        },
+        {
+            "path": "tuto/tuE_17.bin",
+            "size": 108076,
+            "sha256": "afdc5a27bfa7818aee6bb69b40838b4bf4d673956fbcdbb439b5833545c782e3"
+        },
+        {
+            "path": "tuto/tuE_18.bin",
+            "size": 108076,
+            "sha256": "f07a89549df8c3d2ec5f74d883d994283e92046a81e3145e8f3c4a69f5b255d1"
+        },
+        {
+            "path": "tuto/tuE_19.bin",
+            "size": 108076,
+            "sha256": "c8f16e97afc6f2146ac5ce1d0e39dda846d2ba2e47ef482b1d0221d2476df575"
+        },
+        {
+            "path": "tuto/tuE_2.bin",
+            "size": 108076,
+            "sha256": "a287d39cecbd232c3ca13eef716bc629aed35f5c633ef3a159e60c45c3edc5fe"
+        },
+        {
+            "path": "tuto/tuE_20.bin",
+            "size": 108076,
+            "sha256": "7a5fa4e1b30b9791aab94ad288c2f0d5b47007a1ee1da00ec4ef00ceb9c88827"
+        },
+        {
+            "path": "tuto/tuE_21.bin",
+            "size": 108076,
+            "sha256": "e3b7b414fce17519b141525882043e2f21c7201a896e844fc12ea9618946e985"
+        },
+        {
+            "path": "tuto/tuE_22.bin",
+            "size": 108076,
+            "sha256": "158bcd432c02794a2bbe5c965cf31a32fc8a7cc8cfd9e04efb3c4aaf219df593"
+        },
+        {
+            "path": "tuto/tuE_23.bin",
+            "size": 108076,
+            "sha256": "bab3c12bd2025f71fdbdd440e00ec5d8c75a5445e99ae229f873dca91a1e238f"
+        },
+        {
+            "path": "tuto/tuE_3.bin",
+            "size": 108076,
+            "sha256": "9d7f1486b1b7bdc4d9f27a44893974047fe33f0c78c346d2e6d5f93d82cdb091"
+        },
+        {
+            "path": "tuto/tuE_4.bin",
+            "size": 108076,
+            "sha256": "95d741598bd71a8aca4aa20d113e60deb7401b989592e874aa5036c5b1e0bb5d"
+        },
+        {
+            "path": "tuto/tuE_5.bin",
+            "size": 108076,
+            "sha256": "75ea5965d47861acba93d527cc655ed9526126263e05740290a8c0480802dd69"
+        },
+        {
+            "path": "tuto/tuE_6.bin",
+            "size": 108076,
+            "sha256": "42190bd772f34b27d4866bfabe9ec908262ffb9f4421f799b34b7463b3b3fe1f"
+        },
+        {
+            "path": "tuto/tuE_7.bin",
+            "size": 108076,
+            "sha256": "45bf92ad3635296f154d54ec8c56062d90e7b828eaad9f8b691518c022d4a09f"
+        },
+        {
+            "path": "tuto/tuE_8.bin",
+            "size": 108076,
+            "sha256": "dcfc608fd9a3fbc8afd03fcd075835a149b91956c16c347afc752f456ebedf82"
+        },
+        {
+            "path": "tuto/tuE_9.bin",
+            "size": 108076,
+            "sha256": "4c6b8fe3e0cb5ddd0221baeedd2b51a43594f5e38e61f35d2c9d96ca002d2a4a"
+        },
+        {
+            "path": "tuto/tuK_0.bin",
+            "size": 108076,
+            "sha256": "c3b0b44da21372ee1a9fbbd44f65ba707bf26f74ae9c389c3473bff027c96043"
+        },
+        {
+            "path": "tuto/tuK_1.bin",
+            "size": 108076,
+            "sha256": "8f264b4449c08c439cc74d2d6d5329b66f273a12a2b0cc7dcd272880225c7c8c"
+        },
+        {
+            "path": "tuto/tuK_10.bin",
+            "size": 108708,
+            "sha256": "593a4a27ac36de48e7038d0e24f41f5da284939dbf00a64e039e9b3762988a08"
+        },
+        {
+            "path": "tuto/tuK_11.bin",
+            "size": 108708,
+            "sha256": "e9ad34181cf3e6ed548eaad9ed17e84147cb82fe29c77df405ea2e6c0de58b49"
+        },
+        {
+            "path": "tuto/tuK_12.bin",
+            "size": 108708,
+            "sha256": "03bca0e7e143eb387066a45cad8d1bb75a1ac71bacb4c31e995071b995f0a8e6"
+        },
+        {
+            "path": "tuto/tuK_13.bin",
+            "size": 108708,
+            "sha256": "3c04fc0d5602766bdc663215a7d6e2051073d6f5b31a7fb79a56b33035746c6e"
+        },
+        {
+            "path": "tuto/tuK_14.bin",
+            "size": 108708,
+            "sha256": "6eac9f464db93090c218005d75bac1aaa37769ab938c0b4e7eea619a05cc7129"
+        },
+        {
+            "path": "tuto/tuK_15.bin",
+            "size": 108076,
+            "sha256": "38214158780bde38462bf28d0b2c463e78f2a6aed947535603a1348384247332"
+        },
+        {
+            "path": "tuto/tuK_16.bin",
+            "size": 108076,
+            "sha256": "bb03efce3ef5b3022a9cdef0cced1a2ae79a360af6f84bf444f3c93a7c1b20c4"
+        },
+        {
+            "path": "tuto/tuK_17.bin",
+            "size": 108076,
+            "sha256": "31e7964ad1f0fd447b52e8aab4372a6fc11db099a49c15b861b8a1db6fbb44a5"
+        },
+        {
+            "path": "tuto/tuK_18.bin",
+            "size": 108076,
+            "sha256": "7469b33d63edef2c20544a6714acc5d0aa8b852efcc6b1dfbfbd7d810b0f5296"
+        },
+        {
+            "path": "tuto/tuK_19.bin",
+            "size": 108076,
+            "sha256": "2727df0f5856fe7a76c1faf97cd5e4ed79d0b0587ba240b0ac8593f3a9be6a55"
+        },
+        {
+            "path": "tuto/tuK_2.bin",
+            "size": 108076,
+            "sha256": "15b11d89263d9ca6ae2aebc607d151984dfd766ab7be831f11ee673793f05397"
+        },
+        {
+            "path": "tuto/tuK_20.bin",
+            "size": 108076,
+            "sha256": "d84f3eda5efe3678222d1dc0c6e146fb1fd5c281db66a5943c07df14f7e6246d"
+        },
+        {
+            "path": "tuto/tuK_21.bin",
+            "size": 108076,
+            "sha256": "65d4a3b79e561a639bd6fa46b7244eeb506b98c984b469928a1b29a220678e25"
+        },
+        {
+            "path": "tuto/tuK_22.bin",
+            "size": 108076,
+            "sha256": "e874b8cf3f252d83f4a6a1b5ea6b72fdcf8e138e0e9924669b271dbf686921a4"
+        },
+        {
+            "path": "tuto/tuK_23.bin",
+            "size": 108076,
+            "sha256": "28b1376461c7a104598ea8963e82fb080291b631aa15911ac9955cd4bf3b9178"
+        },
+        {
+            "path": "tuto/tuK_3.bin",
+            "size": 108076,
+            "sha256": "7fc5761a350a7a367ce8afbc9f27c51648f72aaf9adb13cfea023823816408bb"
+        },
+        {
+            "path": "tuto/tuK_4.bin",
+            "size": 108076,
+            "sha256": "2cce816bbacfcf727a46f5fcde2bc17e5db69003816b2d103c84ae50a8bdf4fc"
+        },
+        {
+            "path": "tuto/tuK_5.bin",
+            "size": 108076,
+            "sha256": "afe20e4b5645caadbb9586f48258322cc80bf227127db07857e7db122330d533"
+        },
+        {
+            "path": "tuto/tuK_6.bin",
+            "size": 108076,
+            "sha256": "d38dd768597faaea3fc16982f0f6e5dcaceb2cab4a8c95e832fe834d61b2db38"
+        },
+        {
+            "path": "tuto/tuK_7.bin",
+            "size": 108076,
+            "sha256": "53a9ad6076824c9c3572dadb3cf1dd92b685d8f3346f58736da67e75c6fa1241"
+        },
+        {
+            "path": "tuto/tuK_8.bin",
+            "size": 108076,
+            "sha256": "7de8a7545ad676764ca411c270cce8db8a5dd04090fd740b870e928a0c87f000"
+        },
+        {
+            "path": "tuto/tuK_9.bin",
+            "size": 108076,
+            "sha256": "299188a7783c296e2a43e6d54f1afbe0b557689ad3522f84e0c32118cb92b1f3"
+        },
+        {
+            "path": "UI/cdDelC.bin",
+            "size": 7428,
+            "sha256": "e00445210fe54127ca05f135d2ecd5fe4568b330619aa622710a4225bf6860a1"
+        },
+        {
+            "path": "UI/cdDelF.bin",
+            "size": 7812,
+            "sha256": "42831695d1fa28035f3d38346e24d35ec634aba46f3a56b853becf57fe980538"
+        },
+        {
+            "path": "UI/charge.bin",
+            "size": 130360,
+            "sha256": "f56a41316abeaaecde955045feff5cfb5837f86bbf6e7e48c5724f47786b6ea2"
+        },
+        {
+            "path": "UI/hsv_b.bin",
+            "size": 15604,
+            "sha256": "9568ee163f9764e3e38a991c63342de307c1149684fd07d21c3a696961323c33"
+        },
+        {
+            "path": "UI/irBt1.bin",
+            "size": 32218,
+            "sha256": "d1b649c48c197344696ed4293fb868ec72337d3be900ec5027cf13c2ab050e31"
+        },
+        {
+            "path": "UI/irFr5.bin",
+            "size": 55780,
+            "sha256": "dde2f107546e9d029668c99db5244d1c969d5f03ac873c558fdf4c26198aa21a"
+        },
+        {
+            "path": "UI/irFr6.bin",
+            "size": 41332,
+            "sha256": "2a63232c7da63b920b4f46bed0ac218394c6902d7852be50837d70d593152905"
+        },
+        {
+            "path": "UI/irFr7.bin",
+            "size": 17350,
+            "sha256": "4e71a723b3a1a1a88543e311a043c801f2d80480d3415412c7ef8d9766ee5b73"
+        },
+        {
+            "path": "UI/irFr8.bin",
+            "size": 87088,
+            "sha256": "e6df7d17ee7067f94935ccf46cc06e6c2a4209468aa0b3bd56e86e2001c100ab"
+        },
+        {
+            "path": "UI/irFr9.bin",
+            "size": 87088,
+            "sha256": "70acbf26b370d08081f36af9c71fc070576a7f550fc2534673fb9caab3a5469d"
+        },
+        {
+            "path": "UI/ir_selB.bin",
+            "size": 12019,
+            "sha256": "e98d4de5bad2df89abea2f3c918408fa39b58163c7bb5ce9fbd79e255e2ca76f"
+        },
+        {
+            "path": "UI/ir_selF.bin",
+            "size": 16189,
+            "sha256": "1fa142b952117571eb68a2a2cc6840b62bd16e4a44041fa556c2f096571de562"
+        },
+        {
+            "path": "UI/ir_selR.bin",
+            "size": 15766,
+            "sha256": "e9280683c20c4ac13ee4ac26a606f390212b006ab1909b7e8e111efd1449173b"
+        },
+        {
+            "path": "UI/lowBat.bin",
+            "size": 56404,
+            "sha256": "eab988d2dccd7b23d809d1406fc25f2830e002c61518caa601c2252de63d6966"
+        },
+        {
+            "path": "UI/resetA.bin",
+            "size": 8068,
+            "sha256": "b190d8ccbbf6c555464a8fc596a43fe4393f706edd253f7fe1a61ded1a481350"
+        },
+        {
+            "path": "UI/resetC.bin",
+            "size": 8068,
+            "sha256": "348a4872b4f68522a9c0674cf5f9ae49c72a6d265a18225370cd3e26faa311ec"
+        },
+        {
+            "path": "UI/resetS.bin",
+            "size": 8068,
+            "sha256": "554d83da06a8c8e0c7644e879b01b90eedf33a7f4d805c87ec9b55e13544260b"
+        },
+        {
+            "path": "UI/st_e2.bin",
+            "size": 18724,
+            "sha256": "27346e3f4c2e67bd9911514de219165283f227ef03acd10b8eae141dc83216ac"
+        },
+        {
+            "path": "UI/st_p.bin",
+            "size": 1456,
+            "sha256": "38bad0d47318e2f2725ab7ab90245ec6f11cddb2bb8a0a9adb928eb0df263562"
+        },
+        {
+            "path": "UI/st_r2.bin",
+            "size": 18964,
+            "sha256": "aaf4b872874f664e002cd4c884de78c546e99d833101b3313f8ff68329671465"
+        },
+        {
+            "path": "UI/st_u.bin",
+            "size": 1456,
+            "sha256": "f64d5f494cdf0f93ef449354718c96a78330ed077e271a6a98d9fdadb36d3fc9"
+        },
+        {
+            "path": "UI/voice.txt",
+            "size": 247,
+            "sha256": "0da70dfb98e2c61f89ec4de90559f0972d44fefcaaf62606a514c59119988984"
+        },
+        {
+            "path": "UI/voice_01.bin",
+            "size": 110084,
+            "sha256": "1cdaa192e637d5d28f17b221701761c1e905658e601d9d7017842efe0c9d3f74"
+        },
+        {
+            "path": "wireless/app_01.bin",
+            "size": 110084,
+            "sha256": "80b5bc05f980403bd779f5989bcb19765e09ebe4e15877a9037a0fd55a514030"
+        },
+        {
+            "path": "wireless/app_02.bin",
+            "size": 110084,
+            "sha256": "4e56f614b0076cf6f123c02dc80e4066eae34facb8783fb8266b964aba5fe821"
+        },
+        {
+            "path": "wireless/connecting.bin",
+            "size": 110084,
+            "sha256": "0b2fc42fc694bc953f46cf57bceccaf98d759a86a7410013bb04d484f5c90c22"
+        },
+        {
+            "path": "wireless/entry_01.bin",
+            "size": 110084,
+            "sha256": "03b4e047e9efaad450712d4607dc10f84b9d88e1a148235d9431adc2de078355"
+        },
+        {
+            "path": "wireless/entry_02.bin",
+            "size": 110084,
+            "sha256": "c8a0810080afd09bb5880347aad31abafb87a18b6ffd63b27cb620217ca58a11"
+        },
+        {
+            "path": "wireless/gpt-chat.bin",
+            "size": 109740,
+            "sha256": "3180084458876c80d0dd6a0c3419776ffde0f00ae464f1f1f288a24d884daddd"
+        },
+        {
+            "path": "wireless/gpt_key.bin",
+            "size": 110084,
+            "sha256": "849592dfa4784ae641ca814531b1b26cf4a430d5e78d4fe3be5e74354c278c31"
+        },
+        {
+            "path": "wireless/hw_update.bin",
+            "size": 110084,
+            "sha256": "673f485170277e87713d8b2f9abd1894f4770521f7f606c99138f2cb06979b27"
+        },
+        {
+            "path": "wireless/mic_control.bin",
+            "size": 110084,
+            "sha256": "7bb05fb687dbc35b82f3755a8ec9c7b280ad751b76eba3617c7fb16e2daada3f"
+        },
+        {
+            "path": "wireless/pair_01.bin",
+            "size": 110084,
+            "sha256": "d00ff712854f0a92b4932aaedf604cb891f9ff1fcc1eab8c5a5618bb871337b5"
+        },
+        {
+            "path": "wireless/pair_02.bin",
+            "size": 110084,
+            "sha256": "1d57e20b31b2fce28f554ecde9d291e470910c663eb086cab71f7fa2db684623"
+        },
+        {
+            "path": "wireless/sd_update.bin",
+            "size": 110084,
+            "sha256": "653787a71f3b98ca769586b8c23e9d20ff1084c9c1da11c12475862c02f3ef07"
+        },
+        {
+            "path": "wireless/update.bin",
+            "size": 110084,
+            "sha256": "bcaecdf7b23b4f967f8d77cf90e156d4a094bb07142389db8da8b1d3d8cf6fbc"
+        },
+        {
+            "path": "wireless/update_from_sd.bin",
+            "size": 110084,
+            "sha256": "d5621c26496fdb4dac93968990ab7cbd69275fc73b1461c0c55d539e6771c2cf"
+        },
+        {
+            "path": "wireless/update_from_sd2.bin",
+            "size": 110084,
+            "sha256": "1711f12dfa566c2238a54bc8daf611a02d7f0c9fb1b65c83d5cd04b378105a88"
+        },
+        {
+            "path": "wireless/update_from_web.bin",
+            "size": 110084,
+            "sha256": "0c0bf19880ff7178fa353fa9d541a9695f504a4bc93b600f5419e916d5e95ab3"
+        },
+        {
+            "path": "wireless/wifi_set.bin",
+            "size": 110084,
+            "sha256": "b366c4f9fdfd500a08c33d3b399f0b3ff56084a1b6731e8e99e7a92c3b890658"
+        }
+    ]
+}
