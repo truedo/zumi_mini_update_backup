@@ -10,5 +10,5 @@
     "hw_sha256": "C4AF44598ED4B3BDEFFECC0001AF1B9CE60AFB47A4FAA2C96E5DBF785F317C91",
 
     "sd_version": "1.08",
-    "sd_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/sd_files.json"
+    "sd_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/sd_files.json"
 }
