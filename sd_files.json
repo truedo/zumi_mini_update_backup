@@ -2,29 +2,9 @@
     "base_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/SD",
     "files": [
         {
-            "path": "codes.bin",
-            "size": 0,
-            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-        },
-        {
             "path": "faceEx.bin",
             "size": 115204,
             "sha256": "979a953a382f9e39d80553960a38819c97014e3f3682cd29ac00ba99df77f47b"
-        },
-        {
-            "path": "firmware.bin",
-            "size": 2717504,
-            "sha256": "6fc0e6d934223df5591a87b4896d8369ebb152561013b488b4a2920a580eaa6d"
-        },
-        {
-            "path": "FLAG.TXT",
-            "size": 2,
-            "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
-        },
-        {
-            "path": "list.txt",
-            "size": 147016,
-            "sha256": "3ff05c08fc1b23897876995e96ff96ab3089b850bb603e98de720671398a7802"
         },
         {
             "path": "logo_ai_b.bin",
@@ -37,19 +17,9 @@
             "sha256": "c3ce683c19f6ecada5ab486fb94acea87de232af861b33f39e2ca7849da1f4f0"
         },
         {
-            "path": "set.txt",
-            "size": 1527,
-            "sha256": "097df61afe6fdeb4fee111d238948914c5ef5d1d859e7fcfa969d0913b00e0a3"
-        },
-        {
             "path": "slide.wav",
             "size": 16706,
             "sha256": "dee549198c83dd329c15f80a27d8bba0a4cacdc9696b89f3f212d884f3d91800"
-        },
-        {
-            "path": "stat.txt",
-            "size": 1511,
-            "sha256": "40d8c31df81b0d398ecb7593b3313442f031325ab0e22fbb3e65f93cefd15d85"
         },
         {
             "path": "ttalkak.wav",
@@ -60,11 +30,6 @@
             "path": "version.txt",
             "size": 4,
             "sha256": "1fedb9c592f8dc6e7c5316ba43da17271a42fa78ad4ddb63bd8dda326464f948"
-        },
-        {
-            "path": "wifi.txt",
-            "size": 0,
-            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         },
         {
             "path": "work_In.bin",
@@ -205,56 +170,6 @@
             "path": "AI/talk_kr.txt",
             "size": 1444,
             "sha256": "114ac5660f8c350f3f8018184feeb21bbfdde98f4d801ce4f707e45703602118"
-        },
-        {
-            "path": "camera/re_0.pic",
-            "size": 115200,
-            "sha256": "90c316bb8a894c2db78a544bdadc05d82b10502483bc45c73440b3ae14fdcfb9"
-        },
-        {
-            "path": "camera/re_1.pic",
-            "size": 115200,
-            "sha256": "fb6c71d68c02ff43bf42b66ea088b4d121a4131112bdfdaa25d6321f64a0ebf1"
-        },
-        {
-            "path": "camera/re_2.pic",
-            "size": 115200,
-            "sha256": "3a49e53bbc1d4038c697b74388dfa2d3af1cd4135d0965f89951f5321220e7bb"
-        },
-        {
-            "path": "camera/re_3.pic",
-            "size": 115200,
-            "sha256": "f2a1195b74234eb106af1172cfc9a17b397936390a2ef341a887e79a325475e9"
-        },
-        {
-            "path": "camera/re_4.pic",
-            "size": 115200,
-            "sha256": "b273baff4c501a123d65013c107ccd9ad4e4f728277ccfbfac8fbc0439bae546"
-        },
-        {
-            "path": "camera/re_5.pic",
-            "size": 115200,
-            "sha256": "743fa5bcca094e5f16e3c9fabd2bcaf59862d22a27dd0bd013c2048a241f81cb"
-        },
-        {
-            "path": "camera/re_6.pic",
-            "size": 115200,
-            "sha256": "42d8efef1fc6be0e169fbc9952b1834823277cddc8aa1953d6a4f1fc073f2f3d"
-        },
-        {
-            "path": "camera/re_7.pic",
-            "size": 115200,
-            "sha256": "4669fa9691a76d800f31f12273e25cbc203e67b6d6290ec204b338b0c57c23fc"
-        },
-        {
-            "path": "camera/re_8.pic",
-            "size": 115200,
-            "sha256": "39b522a1ab5600c4cad9434c3ff40cd1082d10f6eb77b7ad5ebb739688176dbf"
-        },
-        {
-            "path": "camera/re_9.pic",
-            "size": 115200,
-            "sha256": "33c8720a49d4007b0c22d33176a8e5650f2fd1ffc3c5eaca15d1107fbde15136"
         },
         {
             "path": "coding/apr.bin",
@@ -400,11 +315,6 @@
             "path": "coding/waitOne.bin",
             "size": 3076,
             "sha256": "ba0e21cd40ab2e01929ce8fa11268b7f9a2ff68bd358326dd2dd999bf4851124"
-        },
-        {
-            "path": "download/file.index",
-            "size": 0,
-            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         },
         {
             "path": "emotion/angry.wav",
@@ -1182,11 +1092,6 @@
             "sha256": "ed85966d2e208ea2a526d0a302354185beb9068af973663c14688431bc8e1b0c"
         },
         {
-            "path": "RECORDS/voice.mp3",
-            "size": 119040,
-            "sha256": "a8a07681176a120fab9e5d884f247a65c4bcd5a844fa10d4a541aa72bc2dc8aa"
-        },
-        {
             "path": "sensor/ck_acc.bin",
             "size": 36004,
             "sha256": "cc49a348a4861e8f5aecf3d567eec115abdf6af7de6050cdd038715b5608bd0a"
@@ -1495,246 +1400,6 @@
             "path": "sound2/success.wav",
             "size": 194252,
             "sha256": "d6539ca00bd454cde3f5e1fbc6ccf4b369a13b11eb66befe393c0702d31b9069"
-        },
-        {
-            "path": "tuto/tuE_0.bin",
-            "size": 108076,
-            "sha256": "295b2599d68a9dc8c856a525834d5228c2da9c50fa0d076db2166ef2c1020ab4"
-        },
-        {
-            "path": "tuto/tuE_1.bin",
-            "size": 108076,
-            "sha256": "96713f2d0152c61f9b075caff3d0b71d39494b3c4ed56b8750d2322aeeaeaccd"
-        },
-        {
-            "path": "tuto/tuE_10.bin",
-            "size": 108708,
-            "sha256": "6697a0997377e8e73e2ea12f51cb1a339a9d52c38558427d693b74bfe41d48b2"
-        },
-        {
-            "path": "tuto/tuE_11.bin",
-            "size": 108708,
-            "sha256": "e3016a5658d7fe49e006d9e408f7ae0d0865bdb1df02550d7d456926b5bebe0d"
-        },
-        {
-            "path": "tuto/tuE_12.bin",
-            "size": 108076,
-            "sha256": "63471c7e29ceff87b3e92ca08820583631762f5fe8adf17c4eb2bba58f77b874"
-        },
-        {
-            "path": "tuto/tuE_13.bin",
-            "size": 108076,
-            "sha256": "da210db6e2ef38c38b8b842d54822dd433d14680d3384a6bffc999cfeb3c53d3"
-        },
-        {
-            "path": "tuto/tuE_14.bin",
-            "size": 108708,
-            "sha256": "5dc4a817ce77ccf4da19828374a225f2f6799fa81b0aaba4a4f99e191ad32ae1"
-        },
-        {
-            "path": "tuto/tuE_15.bin",
-            "size": 108076,
-            "sha256": "75f0fbb9db35e12ef1ca8283c44944fdd7d504451141a1f10ed0b2791e7c0b60"
-        },
-        {
-            "path": "tuto/tuE_16.bin",
-            "size": 108076,
-            "sha256": "e2a257e7446f91cb5d5399b45ba61ee031ac36a022f98555d8bf3c1fe82601ce"
-        },
-        {
-            "path": "tuto/tuE_17.bin",
-            "size": 108076,
-            "sha256": "afdc5a27bfa7818aee6bb69b40838b4bf4d673956fbcdbb439b5833545c782e3"
-        },
-        {
-            "path": "tuto/tuE_18.bin",
-            "size": 108076,
-            "sha256": "f07a89549df8c3d2ec5f74d883d994283e92046a81e3145e8f3c4a69f5b255d1"
-        },
-        {
-            "path": "tuto/tuE_19.bin",
-            "size": 108076,
-            "sha256": "c8f16e97afc6f2146ac5ce1d0e39dda846d2ba2e47ef482b1d0221d2476df575"
-        },
-        {
-            "path": "tuto/tuE_2.bin",
-            "size": 108076,
-            "sha256": "a287d39cecbd232c3ca13eef716bc629aed35f5c633ef3a159e60c45c3edc5fe"
-        },
-        {
-            "path": "tuto/tuE_20.bin",
-            "size": 108076,
-            "sha256": "7a5fa4e1b30b9791aab94ad288c2f0d5b47007a1ee1da00ec4ef00ceb9c88827"
-        },
-        {
-            "path": "tuto/tuE_21.bin",
-            "size": 108076,
-            "sha256": "e3b7b414fce17519b141525882043e2f21c7201a896e844fc12ea9618946e985"
-        },
-        {
-            "path": "tuto/tuE_22.bin",
-            "size": 108076,
-            "sha256": "158bcd432c02794a2bbe5c965cf31a32fc8a7cc8cfd9e04efb3c4aaf219df593"
-        },
-        {
-            "path": "tuto/tuE_23.bin",
-            "size": 108076,
-            "sha256": "bab3c12bd2025f71fdbdd440e00ec5d8c75a5445e99ae229f873dca91a1e238f"
-        },
-        {
-            "path": "tuto/tuE_3.bin",
-            "size": 108076,
-            "sha256": "9d7f1486b1b7bdc4d9f27a44893974047fe33f0c78c346d2e6d5f93d82cdb091"
-        },
-        {
-            "path": "tuto/tuE_4.bin",
-            "size": 108076,
-            "sha256": "95d741598bd71a8aca4aa20d113e60deb7401b989592e874aa5036c5b1e0bb5d"
-        },
-        {
-            "path": "tuto/tuE_5.bin",
-            "size": 108076,
-            "sha256": "75ea5965d47861acba93d527cc655ed9526126263e05740290a8c0480802dd69"
-        },
-        {
-            "path": "tuto/tuE_6.bin",
-            "size": 108076,
-            "sha256": "42190bd772f34b27d4866bfabe9ec908262ffb9f4421f799b34b7463b3b3fe1f"
-        },
-        {
-            "path": "tuto/tuE_7.bin",
-            "size": 108076,
-            "sha256": "45bf92ad3635296f154d54ec8c56062d90e7b828eaad9f8b691518c022d4a09f"
-        },
-        {
-            "path": "tuto/tuE_8.bin",
-            "size": 108076,
-            "sha256": "dcfc608fd9a3fbc8afd03fcd075835a149b91956c16c347afc752f456ebedf82"
-        },
-        {
-            "path": "tuto/tuE_9.bin",
-            "size": 108076,
-            "sha256": "4c6b8fe3e0cb5ddd0221baeedd2b51a43594f5e38e61f35d2c9d96ca002d2a4a"
-        },
-        {
-            "path": "tuto/tuK_0.bin",
-            "size": 108076,
-            "sha256": "c3b0b44da21372ee1a9fbbd44f65ba707bf26f74ae9c389c3473bff027c96043"
-        },
-        {
-            "path": "tuto/tuK_1.bin",
-            "size": 108076,
-            "sha256": "8f264b4449c08c439cc74d2d6d5329b66f273a12a2b0cc7dcd272880225c7c8c"
-        },
-        {
-            "path": "tuto/tuK_10.bin",
-            "size": 108708,
-            "sha256": "593a4a27ac36de48e7038d0e24f41f5da284939dbf00a64e039e9b3762988a08"
-        },
-        {
-            "path": "tuto/tuK_11.bin",
-            "size": 108708,
-            "sha256": "e9ad34181cf3e6ed548eaad9ed17e84147cb82fe29c77df405ea2e6c0de58b49"
-        },
-        {
-            "path": "tuto/tuK_12.bin",
-            "size": 108708,
-            "sha256": "03bca0e7e143eb387066a45cad8d1bb75a1ac71bacb4c31e995071b995f0a8e6"
-        },
-        {
-            "path": "tuto/tuK_13.bin",
-            "size": 108708,
-            "sha256": "3c04fc0d5602766bdc663215a7d6e2051073d6f5b31a7fb79a56b33035746c6e"
-        },
-        {
-            "path": "tuto/tuK_14.bin",
-            "size": 108708,
-            "sha256": "6eac9f464db93090c218005d75bac1aaa37769ab938c0b4e7eea619a05cc7129"
-        },
-        {
-            "path": "tuto/tuK_15.bin",
-            "size": 108076,
-            "sha256": "38214158780bde38462bf28d0b2c463e78f2a6aed947535603a1348384247332"
-        },
-        {
-            "path": "tuto/tuK_16.bin",
-            "size": 108076,
-            "sha256": "bb03efce3ef5b3022a9cdef0cced1a2ae79a360af6f84bf444f3c93a7c1b20c4"
-        },
-        {
-            "path": "tuto/tuK_17.bin",
-            "size": 108076,
-            "sha256": "31e7964ad1f0fd447b52e8aab4372a6fc11db099a49c15b861b8a1db6fbb44a5"
-        },
-        {
-            "path": "tuto/tuK_18.bin",
-            "size": 108076,
-            "sha256": "7469b33d63edef2c20544a6714acc5d0aa8b852efcc6b1dfbfbd7d810b0f5296"
-        },
-        {
-            "path": "tuto/tuK_19.bin",
-            "size": 108076,
-            "sha256": "2727df0f5856fe7a76c1faf97cd5e4ed79d0b0587ba240b0ac8593f3a9be6a55"
-        },
-        {
-            "path": "tuto/tuK_2.bin",
-            "size": 108076,
-            "sha256": "15b11d89263d9ca6ae2aebc607d151984dfd766ab7be831f11ee673793f05397"
-        },
-        {
-            "path": "tuto/tuK_20.bin",
-            "size": 108076,
-            "sha256": "d84f3eda5efe3678222d1dc0c6e146fb1fd5c281db66a5943c07df14f7e6246d"
-        },
-        {
-            "path": "tuto/tuK_21.bin",
-            "size": 108076,
-            "sha256": "65d4a3b79e561a639bd6fa46b7244eeb506b98c984b469928a1b29a220678e25"
-        },
-        {
-            "path": "tuto/tuK_22.bin",
-            "size": 108076,
-            "sha256": "e874b8cf3f252d83f4a6a1b5ea6b72fdcf8e138e0e9924669b271dbf686921a4"
-        },
-        {
-            "path": "tuto/tuK_23.bin",
-            "size": 108076,
-            "sha256": "28b1376461c7a104598ea8963e82fb080291b631aa15911ac9955cd4bf3b9178"
-        },
-        {
-            "path": "tuto/tuK_3.bin",
-            "size": 108076,
-            "sha256": "7fc5761a350a7a367ce8afbc9f27c51648f72aaf9adb13cfea023823816408bb"
-        },
-        {
-            "path": "tuto/tuK_4.bin",
-            "size": 108076,
-            "sha256": "2cce816bbacfcf727a46f5fcde2bc17e5db69003816b2d103c84ae50a8bdf4fc"
-        },
-        {
-            "path": "tuto/tuK_5.bin",
-            "size": 108076,
-            "sha256": "afe20e4b5645caadbb9586f48258322cc80bf227127db07857e7db122330d533"
-        },
-        {
-            "path": "tuto/tuK_6.bin",
-            "size": 108076,
-            "sha256": "d38dd768597faaea3fc16982f0f6e5dcaceb2cab4a8c95e832fe834d61b2db38"
-        },
-        {
-            "path": "tuto/tuK_7.bin",
-            "size": 108076,
-            "sha256": "53a9ad6076824c9c3572dadb3cf1dd92b685d8f3346f58736da67e75c6fa1241"
-        },
-        {
-            "path": "tuto/tuK_8.bin",
-            "size": 108076,
-            "sha256": "7de8a7545ad676764ca411c270cce8db8a5dd04090fd740b870e928a0c87f000"
-        },
-        {
-            "path": "tuto/tuK_9.bin",
-            "size": 108076,
-            "sha256": "299188a7783c296e2a43e6d54f1afbe0b557689ad3522f84e0c32118cb92b1f3"
         },
         {
             "path": "UI/cdDelC.bin",
