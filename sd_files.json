@@ -27,11 +27,6 @@
             "sha256": "6871a479c676a67e6e1187edaeebda22156f99d7519b3cb7b34ebb54d39f4bd8"
         },
         {
-            "path": "version.txt",
-            "size": 4,
-            "sha256": "1fedb9c592f8dc6e7c5316ba43da17271a42fa78ad4ddb63bd8dda326464f948"
-        },
-        {
             "path": "work_In.bin",
             "size": 49156,
             "sha256": "192da21c598e1ba5b74ef1654766043405661851030d24195cdccef468ad970a"
@@ -1600,6 +1595,11 @@
             "path": "wireless/wifi_set.bin",
             "size": 110084,
             "sha256": "b366c4f9fdfd500a08c33d3b399f0b3ff56084a1b6731e8e99e7a92c3b890658"
+        },
+        {
+            "path": "version.txt",
+            "size": 4,
+            "sha256": "1fedb9c592f8dc6e7c5316ba43da17271a42fa78ad4ddb63bd8dda326464f948"
         }
     ]
 }
