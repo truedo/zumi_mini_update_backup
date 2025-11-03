@@ -1,1 +1,35 @@
+# === 바이너리 파일들 ===
 *.hex binary
+*.bin binary
+*.dat binary
+*.raw binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.bmp binary
+*.mp3 binary
+*.wav binary
+*.mp4 binary
+*.zip binary
+*.pdf binary
+*.ico binary
+*.ttf binary
+*.otf binary
+
+# === 텍스트 기반 파일들 ===
+*.txt text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf  # Windows 전용 스크립트는 CRLF로 유지
