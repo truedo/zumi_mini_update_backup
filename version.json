@@ -1,14 +1,14 @@
 {
-    "main_version": "2.01",
+    "main_version": "2.03",
     "main_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/MAIN/ZumiMini.bin",
     "main_size": "2770432",
     "main_sha256": "0CE8BA648706D89CF3F0B953B847F631EA12B2507EEA7E9EBF34327141321076",
 
-    "hw_version": "3.01",
+    "hw_version": "3.00",
     "hw_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/HW/HW_recovery.hex",
     "hw_size": "71069",
     "hw_sha256": "C4AF44598ED4B3BDEFFECC0001AF1B9CE60AFB47A4FAA2C96E5DBF785F317C91",
 
-    "sd_version": "1.08",
+    "sd_version": "1.07",
     "sd_url": "https://raw.githubusercontent.com/truedo/zumi_mini_update_backup/main/sd_files.json"
 }
