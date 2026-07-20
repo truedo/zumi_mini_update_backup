@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>파일 SHA-256 및 크기 계산기</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 25px;
+            color: #4A5568;
+        }
+        .drop-zone {
+            border: 2px dashed #CBD5E0;
+            border-radius: 6px;
+            padding: 30px;
+            text-align: center;
+            background: #F7FAFC;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .drop-zone:hover, .drop-zone.dragover {
+            border-color: #4299E1;
+            background: #EBF8FF;
+        }
+        #fileInput { display: none; }
+        .result-box {
+            margin-top: 25px;
+            padding: 15px;
+            background: #EDF2F7;
+            border-radius: 6px;
+            display: none;
+        }
+        .result-item {
+            margin-bottom: 15px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .result-item strong {
+            color: #2D3748;
+        }
+        .value-display {
+            background: #FFF;
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: 1px solid #E2E8F0;
+            word-break: break-all;
+        }
+        .copy-btn {
+            background-color: #4299E1;
+            color: white;
+            border: none;
+            padding: 4px 8px;
+            font-size: 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .copy-btn:hover {
+            background-color: #3182CE;
+        }
+        .copy-btn.success {
+            background-color: #48BB78;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>파일 분석기 (SHA-256 & Size)</h2>
+    
+    <div class="drop-zone" id="dropZone">
+        <p>파일을 이 곳에 드래그 앤 드롭하거나 클릭하여 선택하세요.</p>
+        <input type="file" id="fileInput">
+    </div>
+
+    <div class="result-box" id="resultBox">
+        <div class="result-item">
+            <div class="result-header">
+                <strong>파일명</strong>
+            </div>
+            <div class="value-display" id="resName">-</div>
+        </div>
+        
+        <div class="result-item">
+            <div class="result-header">
+                <strong>파일 크기</strong>
+                <button class="copy-btn" id="copySizeBtn" onclick="copyValue('size', this)">복사</button>
+            </div>
+            <div class="value-display" id="resSize">-</div>
+        </div>
+        
+        <div class="result-item">
+            <div class="result-header">
+                <strong>SHA-256</strong>
+                <button class="copy-btn" id="copyHashBtn" onclick="copyValue('hash', this)">복사</button>
+            </div>
+            <div class="value-display" id="resHash" style="font-family: monospace; color: #C53030; font-weight: bold;">계산 중...</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const dropZone = document.getElementById('dropZone');
+    const fileInput = document.getElementById('fileInput');
+    const resultBox = document.getElementById('resultBox');
+    
+    // 복사할 원본 값을 임시 저장할 전역 변수
+    let rawByteSize = '';
+    let rawSha256 = '';
+
+    dropZone.addEventListener('click', () => fileInput.click());
+    
+    dropZone.addEventListener('dragover', (e) => {
+        e.preventDefault();
+        dropZone.classList.add('dragover');
+    });
+    
+    dropZone.addEventListener('dragleave', () => {
+        dropZone.classList.remove('dragover');
+    });
+    
+    dropZone.addEventListener('drop', (e) => {
+        e.preventDefault();
+        dropZone.classList.remove('dragover');
+        if (e.dataTransfer.files.length > 0) {
+            processFile(e.dataTransfer.files[0]);
+        }
+    });
+
+    fileInput.addEventListener('change', (e) => {
+        if (e.target.files.length > 0) {
+            processFile(e.target.files[0]);
+        }
+    });
+
+    // 화면 표시용 포맷 함수 (2521920 Bytes (2.41 MB) 형태)
+    function formatBytes(bytes) {
+        if (bytes === 0) return '0 Bytes (0 KB)';
+        const k = 1024;
+        const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+        const i = Math.floor(Math.log(bytes) / Math.log(k));
+        
+        const humanReadable = parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+        return `${bytes} Bytes (${humanReadable})`;
+    }
+
+    async function processFile(file) {
+        resultBox.style.display = 'block';
+        document.getElementById('resName').textContent = file.name;
+        
+        // 원본 바이트 저장 및 화면 출력
+        rawByteSize = file.size.toString(); 
+        document.getElementById('resSize').textContent = formatBytes(file.size);
+        document.getElementById('resHash').textContent = '계산 중...';
+
+        try {
+            const arrayBuffer = await file.arrayBuffer();
+            const hashBuffer = await crypto.subtle.digest('SHA-256', arrayBuffer);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            
+            // 해시값을 대문자로 생성 (.toUpperCase())
+            rawSha256 = hashArray.map(b => b.toString(16).padStart(2, '0')).join('').toUpperCase();
+            
+            document.getElementById('resHash').textContent = rawSha256;
+        } catch (error) {
+            document.getElementById('resHash').textContent = '해시 계산 실패: ' + error.message;
+            rawSha256 = '';
+        }
+    }
+
+    // 커스텀 클립보드 복사 함수
+    function copyValue(type, button) {
+        // 복사할 텍스트 분기 처리
+        const textToCopy = (type === 'size') ? rawByteSize : rawSha256;
+        
+        if (!textToCopy || textToCopy === '계산 중...') return;
+
+        navigator.clipboard.writeText(textToCopy).then(() => {
+            const originalText = button.textContent;
+            button.textContent = '복사됨!';
+            button.classList.add('success');
+            
+            setTimeout(() => {
+                button.textContent = originalText;
+                button.classList.remove('success');
+            }, 1500);
+        }).catch(err => {
+            alert('복사에 실패했습니다: ', err);
+        });
+    }
+</script>
+
+</body>
+</html>
